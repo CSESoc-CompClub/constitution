@@ -2,13 +2,8 @@
 CSESoc Constitution
 ###################
 
-Preliminaries
-=============
-.. sectnum::
-   :start: 0
-
 .. Contents::
-..
+
 
 Introduction
 ============

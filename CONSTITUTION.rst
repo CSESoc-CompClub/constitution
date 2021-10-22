@@ -271,7 +271,7 @@ Meetings
 Finance
 =======
 
-#. The club shall hold an account with the Commonwealth Bank of Australia (CBA)
+#. If required, the club shall hold an account with the Commonwealth Bank of Australia (CBA)
 #. The Executive must approve all accounts and expenditures for payment.
 #. All financial transactions shall require two signatures of members of the Executive.
 #. The club shall nominate three members of the Executive as possible signatories for the account, one of which must be the club Treasurer

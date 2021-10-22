@@ -1,5 +1,5 @@
 ###################
-CSESoc Constitution
+CSESoc CompClub Constitution
 ###################
 
 .. Contents::

@@ -264,7 +264,7 @@ Meetings
    #. All voting at meetings shall be with a simple majority required for a resolution to be passed;
    #. Each voting member is entitled to one vote;
    #. Proxies shall be allowed in meetings;
-   #. In the case of equality of voting the President shall have a casting vote;
+   #. In the case of equality of voting, the Co-Presidents may a cast an extra vote. If this does not break the tie, the Treasurer may cast an extra vote to break the tie.
    #. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
 
 

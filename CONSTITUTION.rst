@@ -41,7 +41,7 @@ Membership
 ==========
 
 #. Contact details for members of the club are to remain with the Executive to have sole access. Contact details are not to be given or sold to any other person.
-#. The Club has an agreed association with the UNSW School of Computer Science and Engineering. Full membership of the Club shall be open to all UNSW students enrolled in subjects under the jurisdiction of the School.
+#. The Club has an agreed association with the UNSW School of Computer Science and Engineering. Full membership of the Club shall be open to all UNSW students enrolled in or previously completed subjects that are under the jurisdiction of the School.
    
    #. Full Members must possess a valid volunteer Working With Childrens Check.  
 
@@ -101,24 +101,46 @@ Executive
 Duties of the Executive
 -----------------------
 
-Co-President
-""""""""""""
+Co-Presidents
+"""""""""""""
 
-#. To chair all club, Committee, General and Annual General Meetings (held during their term) of the club;
-#. To oversee and coordinate the activities and administration of the club;
-#. To ensure that the elected officers of the club perform duties as laid down by the clubs’ Constitution, through regular e-mail updates, regularly advertised meetings, reports and notices and/or regular newsletters;
-#. To ensure that all other tasks necessary for the running of the activities of the club are performed, properly either by doing them or delegating the duties;
-#. To have a thorough knowledge of the club’s Constitution;
-#. To plan the coming year’s activities;
-#. To act as official spokesperson for the club;
-#. To arrive at a membership fee with the Executive;
-#. To liaise with fellow office bearers;
-#. To acquaint each committee member with their function, responsibility, duties and maintain personal contact with them;
-#. To liaise with CSESoc and departments of the University where necessary;
-#. To ensure that the Treasurer submits a Financial Report to the club at the AGM, to be made publicly available.
-#. To ensure that CSESoc and the School is informed of changes to the Executive;
-#. To pass on their knowledge to their successor; and
-#. Other duties as in accordance with the Constitution of the club.
+#. The duties of both Co-President (Externals) and Co-President (Internals) shall be:
+
+   #. To chair all club, Committee, General and Annual General Meetings (held during their term) of the club;
+   #. To oversee and coordinate the activities and administration of the club;
+   #. To ensure that the elected officers of the club perform duties as laid down by the clubs’ Constitution, through regular e-mail updates, regularly advertised meetings, reports and notices and/or regular newsletters;
+   #. To ensure that all other tasks necessary for the running of the activities of the club are performed, properly either by doing them or delegating the duties;
+   #. To have a thorough knowledge of the club’s Constitution;
+   #. To plan the coming year’s activities;
+   #. To act as official spokesperson for the club;
+   #. To arrive at a membership fee with the Executive;
+   #. To liaise with fellow office bearers;
+   #. To acquaint each committee member with their function, responsibility, duties and maintain personal contact with them;
+   #. To liaise with CSESoc and departments of the University where necessary;
+   #. To ensure that the Treasurer submits a Financial Report to the club at the AGM, to be made publicly available.
+   #. To ensure that CSESoc and the School is informed of changes to the Executive;
+   #. To pass on their knowledge to their successor; and
+   #. Other duties as in accordance with the Constitution of the club.
+   
+Co-President (Externals) 
+""""""""""""""""""""""""
+
+#. The duties of the Co-President (Externals) in addition to the Co-President duties shall be
+   
+   #. Supervise the external facing aspects of the society and oversee the Externals portfolio
+   #. Sustain and build external relationships with schools and sponsors for CompClub.
+   #. Facilitate culture and team relations within the society. 
+   #. Other relevant duties as required.
+ 
+Co-President (Internals) 
+""""""""""""""""""""""""
+ 
+#. The duties of the Co-President (Internals) in addition to the Co-President duties shall be
+   
+   #. Supervise and oversee the Internals portfolio
+   #. Facilitate culture and team relations within the society. 
+   #. Other relevant duties as required.
+
 
 Secretary
 """""""""

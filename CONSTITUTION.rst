@@ -51,7 +51,7 @@ Membership
 #. The duration of a person’s membership shall be until the club’s next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the latter.
 #. Members of the Club must hold a valid NSW Working With Childrens Check;
 #. The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
-#. Notwithstanding clause 8, a member of a club Executive may have their position declared vacant according to the procedures set out in clause 3.1.7.
+#. Notwithstanding clause 8, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 3.1 clause 7.
 #. Notwithstanding clause 8, a member or associate member of a club may have their membership terminated after the following procedure is followed:
    
    #. A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
@@ -103,7 +103,7 @@ The Executive Generally
    #. Meet the criteria outlined in clause 7; or
    #. Are removed from their role by majority vote of the executive.
 
-#. Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.
+#. Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.2.
 #. Duties of the following Executive positions shall include but not be limited to:
 
 Duties of the Executive

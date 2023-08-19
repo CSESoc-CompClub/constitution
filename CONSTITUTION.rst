@@ -157,7 +157,9 @@ Secretary
 #. The duties of the Secretary shall be:
 
    #. To be responsible for receiving and replying to all correspondence on behalf of the club;
-   #. To organise meetings, agendas (in consultation with the President), and minutes;
+   #. To organise meetings, agendas (in consultation with the Co-Presidents), and minutes;
+   #. To communicate with the Executive before and after any relevant CSESoc Meetings, to pass on information;
+   #. To liaise with CSESoc and the club’s Executive;
    #. To keep relevant club papers in order;
    #. To coordinate elections; and
    #. To maintain the membership list, updating when changes are made.
@@ -186,8 +188,6 @@ Community Liaison
 """""""""""""""""
 #. The duties of the Community Liaison shall be:
 
-   #. To communicate with the Executive before and after any relevant CSESoc Meetings, to pass on information;
-   #. To liaise with CSESoc and the club’s Executive;
    #. To receive complaints and grievances relating to the Club;
    #. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
    #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and

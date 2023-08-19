@@ -51,7 +51,7 @@ Membership
 #. The duration of a person’s membership shall be until the club’s next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the latter.
 #. Members of the Club must hold a valid NSW Working With Childrens Check;
 #. The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
-#. Notwithstanding clause 2.8, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 3.6.
+#. Notwithstanding clause 2.8, a member of a club Executive may have their position declared vacant according to the procedures set out in clause 3.1.7.
 #. Notwithstanding clause 2.8, a member or associate member of a club may have their membership terminated after the following procedure is followed:
    
    #. A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
@@ -99,7 +99,7 @@ The Executive Generally
 
 #. Any member of the Committee shall have their position declared vacant if they:
    
-   #. Meet the criteria outlined in section 3.6; or
+   #. Meet the criteria outlined in clause 3.1.7; or
    #. Are removed from their role by majority vote of the executive.
 
 #. Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.
@@ -261,20 +261,26 @@ Delegation of Executive to the Portfolio
 Handover Period
 ---------------
 
-#. The duration of the Handover Period shall begin following the election of the Executive-elect, and be until the Society's final planned activity, or until the end of Week One in Term One of the next University year, whichever is earlier.
+#. The duration of the Handover Period shall begin following the election of the Executive-elect, and be until the Club's final planned activity, or until the end of Week One in Term One of the next University year, whichever is earlier.
 #. During this period:
    
    #. The current Executive shall pass on all knowledge of, and advice regarding the Society to the Executive-elect.
    #. Conduct a Handover Meeting no more than a calendar month after the pronouncement of election results.
-   
+
       #. All members of both the Executive, and the Executive-elect are required to attend the Handover Meeting.
       #. The Handover Meeting shall be held in confidence.
       #. At the Handover Meeting, the current Executive shall pass on all knowledge of, and advice regarding the Society to the Executive-elect.
 
-   #. All decisions of the Society are to remain solely of the current Executive.
+   #. All decisions of the Club are to remain solely of the current Executive, subject to clause 3.1.6.
    #. The Executive and Executive-elect may choose to terminate the Handover Period at any time by majority vote.
 
 #. At the conclusion of the Handover Period, the Executive is dissolved and the Executive-elect assumes their elected positions.
+
+:: 
+   Explantory Note:
+   Clause 3.1.5 and Section 3.5 were added to the Constitution to account for the administrative and logistical challenges that arise whilst conducting Club activities during the Summer University Holidays. These clauses ensure that the Club's planned activities operate smoothly under the jurisdiction of the outgoing Executive, as the Executive-elect and Committee-elect familiarise themselves with their respective roles.
+
+   The Executive-elect is suggested to plan the Club's activities of the following year and appoint the Committee-elect.
 
 Meetings
 ========

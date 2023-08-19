@@ -51,8 +51,8 @@ Membership
 #. The duration of a person’s membership shall be until the club’s next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the latter.
 #. Members of the Club must hold a valid NSW Working With Childrens Check;
 #. The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
-#. Notwithstanding clause 2.8, a member of a club Executive may have their position declared vacant according to the procedures set out in clause 3.1.7.
-#. Notwithstanding clause 2.8, a member or associate member of a club may have their membership terminated after the following procedure is followed:
+#. Notwithstanding clause 8, a member of a club Executive may have their position declared vacant according to the procedures set out in clause 3.1.7.
+#. Notwithstanding clause 8, a member or associate member of a club may have their membership terminated after the following procedure is followed:
    
    #. A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
    #. The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2;
@@ -100,7 +100,7 @@ The Executive Generally
 
 #. Any member of the Committee shall have their position declared vacant if they:
    
-   #. Meet the criteria outlined in clause 3.1.7; or
+   #. Meet the criteria outlined in clause 7; or
    #. Are removed from their role by majority vote of the executive.
 
 #. Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.
@@ -245,7 +245,7 @@ Delegation of Executive to the Portfolio
    #. a function which is a duty imposed on the Executive by the Act or by any other law.
    #. for the avoidance of doubt, any function that would require a General Meeting.
 
-#. Subject to clauses 3.2.2.1.2 and 3.2.3.1.1, the members of the Executive are to each supervise and oversee the delegated functions of at least one Portfolio.
+#. Subject to Section 3.2.1 clauses 2.2 and 3.1, the members of the Executive are to each supervise and oversee the delegated functions of at least one Portfolio.
 #. A function the exercise of which has been delegated to a Portfolio under this clause may, while the delegation remains unrevoked, be exercised from time to time by the Portfolio in accordance with the terms of the delegation.
 #. A delegation under this clause may be made subject to any conditions or limitations as to the exercise of any function, or as to time or circumstances, that may be specified in the instrument of delegation.
    
@@ -268,7 +268,7 @@ Handover Period
       #. The Handover Meeting shall be held in confidence.
       #. At the Handover Meeting, the current Executive shall pass on all knowledge of, and advice regarding the Society to the Executive-elect.
 
-   #. All decisions of the Club are to remain solely of the current Executive, subject to clause 3.1.6.
+   #. All decisions of the Club are to remain solely of the current Executive, subject to Section 3.1 clause 6.
    #. The Executive and Executive-elect may choose to terminate the Handover Period at any time by majority vote.
 
 #. At the conclusion of the Handover Period, the Executive is dissolved and the Executive-elect assumes their elected positions.
@@ -277,7 +277,7 @@ Handover Period
 
    Explantory Note:
 
-   Clause 3.1.5 and Section 3.5 were added to the Constitution to account for the administrative and logistical challenges 
+   Section 3.1 clause 5 and Section 3.5 were added to the Constitution to account for the administrative and logistical challenges 
    that arise whilst conducting Club activities during the Summer University Holidays. These clauses ensure that the Club's 
    planned activities operate smoothly under the jurisdiction of the outgoing Executive as the Executive-elect and 
    Committee-elect familiarise themselves with their respective roles.
@@ -308,7 +308,7 @@ Annual General Meetings
 Extraordinary General Meetings
 ------------------------------
 
-#. There shall be Extraordinary General Meetings (EGM) as the Executive sees fit or as petitioned under clause 4.8.
+#. There shall be Extraordinary General Meetings (EGM) as the Executive sees fit or as petitioned under clause 3.
 #. The format, procedures, notice and quorum for an Extraordinary General Meeting shall be the same as for an Annual General Meeting, except that Executive elections will not be held unless specifically notified.
 #. To petition for an Extraordinary General Meeting, ten (10) voting members or half of the club membership, whichever is the lesser, must petition the Executive in writing.
 #. Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than seven (7) days.
@@ -342,8 +342,8 @@ Dissolution
 
 #. Dissolution of the club will occur after the following conditions have been met:
 
-   #. An Extraordinary General Meeting is petitioned in writing as set out in 4.8;
-   #. Procedures for notification as set out in 4.2 are followed, and the reasons for the proposed dissolution are included with the notification to the public;
+   #. An Extraordinary General Meeting is petitioned in writing as set out in Section 4.2 clause 3;
+   #. Procedures for notification as set out in Section 4.2 are followed, and the reasons for the proposed dissolution are included with the notification to the public;
    #. Quorum for the meeting to dissolve the club shall be fifteen (15) voting members or three-quarters of the club membership, whichever is the lesser;
    #. No other business may be conducted at the meeting to dissolve the club;
    #. After the petitioning body has stated its case any opposition must be given the opportunity to reply, with at least ten minutes set aside for this purpose;

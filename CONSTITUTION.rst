@@ -88,6 +88,7 @@ The Executive Generally
    #. The maintenance and review of policies & procedures of the Club, including its Grievance Resolution Policy & Procedure.
 
 #. There is no maximum number of consecutive terms for which an Executive member may hold office.
+#. Subject to this Constitution, members of the Executive hold office until the Executive is dissolved at the conclusion of the Handover Period.
 #. The Executive is at all times bound by the decisions of a club Annual or Extraordinary General Meeting.
 #. Any member of the Executive shall have their position declared vacant if they:
    
@@ -257,6 +258,23 @@ Delegation of Executive to the Portfolio
 #. Any act or thing done or suffered by a Portfolio acting in the exercise of a delegation under this clause has the same force and effect as it would have if it had been done or suffered by the Executive.
 #. The Executive may, by instrument in writing, revoke wholly or in part any delegation under this clause.
 
+Handover Period
+---------------
+
+#. The duration of the Handover Period shall begin following the election of the Executive-elect, and be until the Society's final planned activity, or until the end of Week One in Term One of the next University year, whichever is earlier.
+#. During this period:
+   
+   #. The current Executive shall pass on all knowledge of, and advice regarding the Society to the Executive-elect.
+   #. Conduct a Handover Meeting no more than a calendar month after the pronouncement of election results.
+   
+      #. All members of both the Executive, and the Executive-elect are required to attend the Handover Meeting.
+      #. The Handover Meeting shall be held in confidence.
+      #. At the Handover Meeting, the current Executive shall pass on all knowledge of, and advice regarding the Society to the Executive-elect.
+
+   #. All decisions of the Society are to remain solely of the current Executive.
+   #. The Executive and Executive-elect may choose to terminate the Handover Period at any time by majority vote.
+
+#. At the conclusion of the Handover Period, the Executive is dissolved and the Executive-elect assumes their elected positions.
 
 Meetings
 ========

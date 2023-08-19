@@ -188,13 +188,14 @@ Community Liaison
    #. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
    #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and
    #. To notify those involved of the outcome of the grievance.
-   #. To maintain the club’s grievance procedure alongside the exec;
-   #. Fostering an inclusive culture within the Club;
-   #. Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and indigenous students);
+   #. To maintain the club’s grievance procedure alongside the Executive;
+   #. Fostering an inclusive culture within the Club and its events and activities;
+   #. Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and indigenous students). This may include:
+      #. Fostering and expanding an online community
    #. Engaging & representing student members of non-majority demographics of the Club;
    #. Ensuring the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
+   #. Being an accessible contact for members, highschool students, parents/guardians/carers, UNSW students and UNSW staff for matters regarding accessible and equitable events, activities, conduct and diversity within the Club;
    #. Ensuring that all Club communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
-   #. Being an accessible contact for members, UNSW students and UNSW staff for matters regarding equitable events, activities, conduct and diversity within the Club;
    #. Providing guidance to representatives of the Club (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
    #. Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive;
    #. Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive;

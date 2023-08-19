@@ -17,7 +17,8 @@ The Society
 #. The official name of the club shall be CSESoc CompClub.
 #. The aims and objectives of the club are:
    
-   #. Introduce highschool students to computer science and coding.
+   #. Introduce highschool students to computer science, programming, related careers and industries.
+   #. Promote the computing field to underrepresented groups of highschool students.
    #. Deliver engaging and high quality learning content to students.
    #. Help current CSE students gain teaching and volunteering experience.
 

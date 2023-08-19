@@ -134,7 +134,8 @@ Co-President (Externals)
 
 #. The duties of the Co-President (Externals) in addition to the duties of Co-President shall be
 
-   #. To supervise the external facing aspects of the society and oversee the Externals portfolio;
+   #. To supervise the external-facing aspects of the Club;
+   #. To supervise and oversee the delegated functions of external-facing Portfolios, as outlined in Section 3.4; 
    #. To sustain and build external relationships with highschools and sponsors for CompClub;
    #. To facilitate culture and team relations within the society;
    #. Other relevant duties as required;
@@ -144,7 +145,7 @@ Co-President (Internals)
  
 #. The duties of the Co-President (Internals) in addition to the duties of Co-President shall be
    
-   #. To supervise and oversee the Internals portfolio;
+   #. To supervise and oversee the delegated functions of internal-facing Portfolios as outlined in Section 3.4; 
    #. To communicate with the Executive before and after any relevant Meetings with the School, to pass on information;
    #. To liaise with the School and the club’s Executive
    #. To facilitate culture and team relations within the society;
@@ -243,12 +244,13 @@ Election of the Executive
 Delegation of Executive to the Portfolio
 ----------------------------------------
 
-#. The Executive may, by instrument in writing, delegate to one or more Portfolios (consisting of the member or members of CSESoc that the Executive thinks fit) the exercise of any of the functions of the Executive that are specified in the instrument, other than:
+#. The Executive may, by instrument in writing, delegate to one or more Portfolios (consisting of the member or members of CompClub that the Executive thinks fit) the exercise of any of the functions of the Executive that are specified in the instrument, other than:
    
    #. this power of delegation, and
    #. a function which is a duty imposed on the Executive by the Act or by any other law.
    #. for the avoidance of doubt, any function that would require a General Meeting.
 
+#. Subject to clauses 3.2.2.1.2 and 3.2.3.1.1, the members of the Executive are to each supervise and oversee the delegated functions of at least one Portfolio.
 #. A function the exercise of which has been delegated to a Portfolio under this clause may, while the delegation remains unrevoked, be exercised from time to time by the Portfolio in accordance with the terms of the delegation.
 #. A delegation under this clause may be made subject to any conditions or limitations as to the exercise of any function, or as to time or circumstances, that may be specified in the instrument of delegation.
    
@@ -279,9 +281,10 @@ Handover Period
 :: 
 
    Explantory Note:
+
    Clause 3.1.5 and Section 3.5 were added to the Constitution to account for the administrative and logistical challenges 
    that arise whilst conducting Club activities during the Summer University Holidays. These clauses ensure that the Club's 
-   planned activities operate smoothly under the jurisdiction of the outgoing Executive, as the Executive-elect and 
+   planned activities operate smoothly under the jurisdiction of the outgoing Executive as the Executive-elect and 
    Committee-elect familiarise themselves with their respective roles.
 
    The Executive-elect is suggested to plan the Club's activities of the following year and appoint the Committee-elect.
@@ -292,7 +295,7 @@ Meetings
 Annual General Meetings
 -----------------------
 
-#. Each Annual General meeting (AGM) must occur within fifteen (15) months since the calendar date of the last AGM or Initial General Meeting..
+#. Each Annual General meeting (AGM) must occur within fifteen (15) months since the calendar date of the last AGM or Initial General Meeting.
 #. Notice in the form of an agenda for the Annual General Meeting shall be no less than seven (7) days, and is to be:
    
    #. Given in writing to all club members.

@@ -71,7 +71,8 @@ The Executive Generally
 
 #. The Executive of the club shall be elected from the full members at the Annual General Meeting and shall consist of:
    
-   #. Two (2) Co-President;
+   #. One (1) Co-President (Externals);
+   #. One (1) Co-President (Internals);
    #. One (1) Secretary;
    #. One (1) Treasurer;
    #. One (1) Community Liaison;
@@ -111,7 +112,7 @@ Duties of the Executive
 The Co-Presidents
 """""""""""""""""
 
-#. The duties of both Co-President (Externals) and Co-President (Internals) shall be:
+#. The common duties of the Co-President (Externals) and Co-President (Internals) shall be:
 
    #. To chair all club, Committee, General and Annual General Meetings (held during their term) of the club;
    #. To oversee and coordinate the activities and administration of the club;
@@ -128,11 +129,8 @@ The Co-Presidents
    #. To ensure that CSESoc and the School is informed of changes to the Executive;
    #. To pass on their knowledge to their successor; and
    #. Other duties as in accordance with the Constitution of the club.
-   
-Co-President (Externals) 
-""""""""""""""""""""""""
 
-#. The duties of the Co-President (Externals) in addition to the duties of Co-President shall be
+#. The duties of the Co-President (Externals) shall be
 
    #. To supervise the external-facing aspects of the Club;
    #. To supervise and oversee the delegated functions of external-facing Portfolios, as outlined in Section 3.4; 
@@ -140,10 +138,7 @@ Co-President (Externals)
    #. To facilitate culture and team relations within the society;
    #. Other relevant duties as required;
  
-Co-President (Internals) 
-""""""""""""""""""""""""
- 
-#. The duties of the Co-President (Internals) in addition to the duties of Co-President shall be
+#. The duties of the Co-President (Internals) shall be
    
    #. To supervise and oversee the delegated functions of internal-facing Portfolios as outlined in Section 3.4; 
    #. To communicate with the Executive before and after any relevant Meetings with the School, to pass on information;

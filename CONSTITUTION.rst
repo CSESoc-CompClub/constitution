@@ -277,6 +277,7 @@ Handover Period
 #. At the conclusion of the Handover Period, the Executive is dissolved and the Executive-elect assumes their elected positions.
 
 :: 
+   
    Explantory Note:
    Clause 3.1.5 and Section 3.5 were added to the Constitution to account for the administrative and logistical challenges that arise whilst conducting Club activities during the Summer University Holidays. These clauses ensure that the Club's planned activities operate smoothly under the jurisdiction of the outgoing Executive, as the Executive-elect and Committee-elect familiarise themselves with their respective roles.
 

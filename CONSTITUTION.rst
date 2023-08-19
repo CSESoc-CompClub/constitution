@@ -1,6 +1,9 @@
-###################
+############################
 CSESoc CompClub Constitution
-###################
+############################
+
+.. sectnum::
+   :start: 1
 
 .. Contents::
 
@@ -63,6 +66,9 @@ Membership
 Executive
 =========
 
+The Executive Generally
+-----------------------
+
 #. The Executive of the club shall be elected from the full members at the Annual General Meeting and shall consist of:
    
    #. Two (2) Co-President;
@@ -101,8 +107,8 @@ Executive
 Duties of the Executive
 -----------------------
 
-Co-Presidents
-"""""""""""""
+The Co-Presidents
+"""""""""""""""""
 
 #. The duties of both Co-President (Externals) and Co-President (Internals) shall be:
 
@@ -117,7 +123,7 @@ Co-Presidents
    #. To liaise with fellow office bearers;
    #. To acquaint each committee member with their function, responsibility, duties and maintain personal contact with them;
    #. To liaise with CSESoc and departments of the University where necessary;
-   #. To ensure that the Treasurer submits a Financial Report to the club at the AGM, to be made publicly available.
+   #. To ensure that the Treasurer submits a Financial Report to the club at the AGM, to be made publicly available;
    #. To ensure that CSESoc and the School is informed of changes to the Executive;
    #. To pass on their knowledge to their successor; and
    #. Other duties as in accordance with the Constitution of the club.
@@ -125,71 +131,76 @@ Co-Presidents
 Co-President (Externals) 
 """"""""""""""""""""""""
 
-#. The duties of the Co-President (Externals) in addition to the Co-President duties shall be
-   
-   #. Supervise the external facing aspects of the society and oversee the Externals portfolio
-   #. Sustain and build external relationships with schools and sponsors for CompClub.
-   #. Facilitate culture and team relations within the society. 
-   #. Other relevant duties as required.
+#. The duties of the Co-President (Externals) in addition to the duties of Co-President shall be
+
+   #. To supervise the external facing aspects of the society and oversee the Externals portfolio;
+   #. To sustain and build external relationships with highschools and sponsors for CompClub;
+   #. To facilitate culture and team relations within the society;
+   #. Other relevant duties as required;
  
 Co-President (Internals) 
 """"""""""""""""""""""""
  
-#. The duties of the Co-President (Internals) in addition to the Co-President duties shall be
+#. The duties of the Co-President (Internals) in addition to the duties of Co-President shall be
    
-   #. Supervise and oversee the Internals portfolio
-   #. Facilitate culture and team relations within the society. 
-   #. Other relevant duties as required.
+   #. To supervise and oversee the Internals portfolio;
+   #. To communicate with the Executive before and after any relevant Meetings with the School, to pass on information;
+   #. To liaise with the School and the club’s Executive
+   #. To facilitate culture and team relations within the society;
+   #. Other relevant duties as required;
 
 
 Secretary
 """""""""
+#. The duties of the Secretary shall be:
 
-#. To be responsible for receiving and replying to all correspondence on behalf of the club;
-#. To organise meetings, agendas (in consultation with the President), and minutes;
-#. To keep relevant club papers in order;
-#. To coordinate elections; and
-#. To maintain the membership list, updating when changes are made.
+   #. To be responsible for receiving and replying to all correspondence on behalf of the club;
+   #. To organise meetings, agendas (in consultation with the President), and minutes;
+   #. To keep relevant club papers in order;
+   #. To coordinate elections; and
+   #. To maintain the membership list, updating when changes are made.
 
 Treasurer
 """""""""
+#. The duties of the Treasurer shall be:
 
-#. To keep and maintain all club financial records;
-#. To hold cheque books, petty cash tins etc;
-#. To coordinate with the school on budgets and funding where appropriate
-#. To keep the club informed of its financial position (at meetings, through regular e-mail reports, or regular newsletters;
-#. To carry out financial transactions as directed by the club management;
-#. To not lend money, under any circumstances to themselves, club members or other clubs;
-#. To always ensure that the records are up to date and in good order so that if they are otherwise unable to continue in that capacity someone else can easily take over;
-#. To not put the club in debt that cannot be repaid, but should endeavour to match costs and income as closely as possible;
-#. To always insist on a receipt or docket to validate any expenditure by the club;
-#. To pay all accounts by cheque;
-#. To always provide a receipt to a person who gives money to the club for any reason and bank all money received IMMEDIATELY;
-#. To ensure the Club has at least two and not more than three signatories who are Executive members to the cheque account;
-#. To ensure that club funds are not misused at any time; and
-#. To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained;
-#. To ensure that under no circumstances are any expenses to be met without documentation.
+   #. To keep and maintain all club financial records;
+   #. To hold cheque books, petty cash tins etc;
+   #. To coordinate with the school on budgets and funding where appropriate
+   #. To keep the club informed of its financial position at meetings, through regular e-mail reports, or regular newsletters;
+   #. To carry out financial transactions as directed by the club management;
+   #. To not lend money, under any circumstances to themselves, club members or other clubs;
+   #. To always ensure that the records are up to date and in good order so that if they are otherwise unable to continue in that capacity someone else can easily take over;
+   #. To not put the club in debt that cannot be repaid, but should endeavour to match costs and income as closely as possible;
+   #. To always insist on a receipt or docket to validate any expenditure by the club;
+   #. To pay all accounts by cheque;
+   #. To always provide a receipt to a person who gives money to the club for any reason and bank all money received IMMEDIATELY;
+   #. To ensure the Club has at least two and not more than three signatories who are Executive members to the cheque account;
+   #. To ensure that club funds are not misused at any time; and
+   #. To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained;
+   #. To ensure that under no circumstances are any expenses to be met without documentation.
 
 Community Liaison
 """""""""""""""""
+#. The duties of the Community Liaison shall be:
 
-#. To communicate with the Executive before and after any relevant CSESoc Meetings, to pass on information;
-#. To liaise with CSESoc and the club’s Executive;
-#. To receive complaints and grievances relating to the Club;
-#. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
-#. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and
-#. To notify those involved of the outcome of the grievance.
-#. To maintain the club’s grievance procedure alongside the exec;
-#. Fostering an inclusive culture within the Club;
-#. Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and indigenous students);
-#. Engaging & representing student members of non-majority demographics of the Club;
-#. Ensuring the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
-#. Ensuring that all Club communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
-#. Being an accessible contact for members, UNSW students and UNSW staff for matters regarding equitable events, activities, conduct and diversity within the Club;
-#. Providing guidance to representatives of the Club (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
-#. Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive;
-#. Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive;
-#. Other relevant duties as required
+   #. To communicate with the Executive before and after any relevant CSESoc Meetings, to pass on information;
+   #. To liaise with CSESoc and the club’s Executive;
+   #. To receive complaints and grievances relating to the Club;
+   #. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
+   #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and
+   #. To notify those involved of the outcome of the grievance.
+   #. To maintain the club’s grievance procedure alongside the exec;
+   #. Fostering an inclusive culture within the Club;
+   #. Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and indigenous students);
+   #. Engaging & representing student members of non-majority demographics of the Club;
+   #. Ensuring the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
+   #. Ensuring that all Club communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
+   #. Being an accessible contact for members, UNSW students and UNSW staff for matters regarding equitable events, activities, conduct and diversity within the Club;
+   #. Providing guidance to representatives of the Club (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
+   #. Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive;
+   #. Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive;
+   #. Other relevant duties as required
 
 Election of the Executive
 -------------------------
@@ -301,7 +312,7 @@ Finance
 
 
 Dissolution
------------
+===========
 
 #. Dissolution of the club will occur after the following conditions have been met:
 

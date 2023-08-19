@@ -38,30 +38,30 @@ Definitions
    #. Subjects shall mean units of study offered by the University in progression to the award of a degree.
    #. The School shall mean the School of Computer Science and Engineering, at the University. 
 
-#. Unless a contrary statement appears in Section 7 of this Constitution, the club shall be bound by all the clauses in Section 2 to Section 6 of this Constitution.
+#. Unless a contrary statement appears in Section 7 of this Constitution, the Club shall be bound by all the clauses in Section 2 to Section 6 of this Constitution.
 
 
 Membership
 ==========
 
-#. Contact details for members of the club are to remain with the Executive to have sole access. Contact details are not to be given or sold to any other person.
+#. Contact details for members of the Club are to remain with the Executive to have sole access. Contact details are not to be given or sold to any other person.
 #. The Club has an agreed association with the UNSW School of Computer Science and Engineering. Full membership of the Club shall be open to all UNSW students enrolled in or previously completed subjects that are under the jurisdiction of the School.
    
    #. Full Members must possess a valid volunteer Working With Childrens Check.  
 
-#. The duration of a person’s membership shall be until the club’s next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the latter.
+#. The duration of a person’s membership shall be until the Club’s next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the latter.
 #. Members of the Club must hold a valid NSW Working With Childrens Check;
-#. The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
-#. Notwithstanding clause 8, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 3.1 clause 7.
-#. Notwithstanding clause 8, a member or associate member of a club may have their membership terminated after the following procedure is followed:
+#. The Club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
+#. Notwithstanding clause 8, a member of the Club Executive may have their position declared vacant according to the procedures set out in Section 3.1 clause 7.
+#. Notwithstanding clause 8, a member or associate member of the Club may have their membership terminated after the following procedure is followed:
    
    #. A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
-   #. The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2;
+   #. The members of the Club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2;
    #. The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting.
    #. The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting.
    
    #. The motion is carried by the Extraordinary General Meeting.
-#. Any member of a club or club Executive who believes they have been wrongly expelled may appeal to the Community Liaison officer (or by following the grievance procedure), who will arrive at the final resolution of the matter.
+#. Any member of the Club or Club Executive who believes they have been wrongly expelled may appeal to the Community Liaison officer (or by following the grievance procedure), who will arrive at the final resolution of the matter.
 
 
 Executive
@@ -70,7 +70,7 @@ Executive
 The Executive Generally
 -----------------------
 
-#. The Executive of the club shall be elected from the full members at the Annual General Meeting and shall consist of:
+#. The Executive of the Club shall be elected from the full members at the Annual General Meeting and shall consist of:
    
    #. One (1) Co-President (Externals);
    #. One (1) Co-President (Internals);
@@ -285,6 +285,8 @@ Handover Period
    Committee-elect familiarise themselves with their respective roles.
 
    The Executive-elect is suggested to plan the Club's activities of the following year and appoint the Committee-elect.
+
+   ~ Executive Team 2023
 
 Meetings
 ========

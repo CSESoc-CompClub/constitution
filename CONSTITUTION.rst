@@ -191,6 +191,7 @@ Community Liaison
    #. To maintain the club’s grievance procedure alongside the Executive;
    #. Fostering an inclusive culture within the Club and its events and activities;
    #. Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and indigenous students). This may include:
+   
       #. Fostering and expanding an online community
    #. Engaging & representing student members of non-majority demographics of the Club;
    #. Ensuring the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);

@@ -280,12 +280,13 @@ Handover Period
 
    Explantory Note:
 
-   Section 3.1 clause 5 and Section 3.5 were added to the Constitution to account for the administrative and logistical challenges 
-   that arise whilst conducting Club activities during the Summer University Holidays. These clauses ensure that the Club's 
+   CompClub is unique in that we conduct one of our flagship events during the Summer University Holidays. Section 3.1 clause 5 
+   and Section 3.5 were added to the Constitution to account for the administrative and logistical challenges 
+   that arise whilst conducting Club activities during this period of drastic change. These clauses ensure that the Club's 
    planned activities operate smoothly under the jurisdiction of the outgoing Executive as the Executive-elect and 
    Committee-elect familiarise themselves with their respective roles.
 
-   The Executive-elect is suggested to plan the Club's activities of the following year and appoint the Committee-elect.
+   The Executive-elect is suggested to plan for the Club's activities during their tenure and appoint the Committee-elect.
 
    ~ Executive Team 2023
 

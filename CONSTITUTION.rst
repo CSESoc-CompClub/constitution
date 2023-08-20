@@ -288,7 +288,7 @@ Handover Period
 
    The Executive-elect is suggested to plan for the Club's activities during their tenure and appoint the Committee-elect.
 
-   ~ Executive Team 2023
+   ~ the 2023 Executive Team
 
 Meetings
 ========

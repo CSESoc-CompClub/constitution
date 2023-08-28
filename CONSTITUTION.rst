@@ -227,11 +227,6 @@ Election of the Executive
    
    #. In order to be appointed to an executive position, winner(s) of the election must accept their role and the motion to appoint them has to pass at the Annual General Meeting meeting, or at an Extraordinary General Meeting.
 
-#. Only full members who have attended an event are entitled to vote for the Executive.
-   
-   #. An event is defined as anything run by CompClub, as confirmed by the Executive. 
-   #. These members may also be referred to as voting members;
-
 #. Voting is to be confidential and anonymous with the exception of,
 #. Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
    

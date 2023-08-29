@@ -227,6 +227,7 @@ Election of the Executive
    
    #. In order to be appointed to an executive position, winner(s) of the election must accept their role and the motion to appoint them has to pass at the Annual General Meeting meeting, or at an Extraordinary General Meeting.
 
+#. Only full members of the Club are entitled to vote for the Executive.
 #. Voting is to be confidential and anonymous with the exception of,
 #. Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
    

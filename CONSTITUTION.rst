@@ -140,7 +140,7 @@ The Co-Presidents
  
 #. The duties of the Co-President (Internals) shall be
    
-   #. To supervise events conducted at the University and related Portfolios; 
+   #. To supervise events conducted within the University and related Portfolios; 
    #. To communicate with the Executive before and after any relevant Meetings with the School, to pass on information;
    #. To liaise with the School and the club’s Executive
    #. To facilitate culture and team relations within the society;

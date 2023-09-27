@@ -22,6 +22,7 @@ The Society
    #. Deliver engaging and high quality learning content to students.
    #. Help current CSE students gain teaching and volunteering experience.
 
+#. The assets and income of the club shall be applied solely to further its objects and no portion shall be distributed directly or indirectly to the members of the club except as genuine compensation for services rendered or expenses incurred on behalf of the organisation.
 
 Definitions
 -----------
@@ -37,6 +38,7 @@ Definitions
    #. An academic day shall mean a day during the first, second or third term of the University’s academic year which is not a Saturday, Sunday, Public Holiday or University Holiday; and
    #. Subjects shall mean units of study offered by the University in progression to the award of a degree.
    #. The School shall mean the School of Computer Science and Engineering, at the University. 
+   #. The ACNC shall mean the Australian Charities and Not-for-profits Commission
 
 #. Unless a contrary statement appears in Section 7 of this Constitution, the Club shall be bound by all the clauses in Section 2 to Section 6 of this Constitution.
 
@@ -128,6 +130,7 @@ The Co-Presidents
    #. To liaise with CSESoc and departments of the University where necessary;
    #. To ensure that the Treasurer submits a Financial Report to the club at the AGM, to be made publicly available;
    #. To ensure that CSESoc and the School is informed of changes to the Executive;
+   #. To ensure that the club continues to be a charity;
    #. To pass on their knowledge to their successor; and
    #. Other duties as in accordance with the Constitution of the club.
 
@@ -155,6 +158,8 @@ Secretary
    #. To organise meetings, agendas (in consultation with the Co-Presidents), and minutes;
    #. To communicate with the Executive before and after any relevant CSESoc Meetings, to pass on information;
    #. To liaise with CSESoc and the club’s Executive;
+   #. To notify the ACNC of the details of changes of the club as outlined by the ACNC.
+   #. To submit the Annual Information Statement to the ACNC.
    #. To keep relevant club papers in order;
    #. To coordinate elections; and
    #. To maintain the membership list, updating when changes are made.
@@ -352,4 +357,4 @@ Dissolution
    #. If the motion to dissolve is carried, CSESoc and the School must be notified within fourteen (14) days.
 
 #. Dissolution of the club will also occur if the club has been financially and administratively inactive for a period of eighteen (18) months.
-#. On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to CSESoc, its successor, or in the event that neither exists - an organisation with similar goals or objectives that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc Clubs UNSW shall be the recipient of all assets. 
+#. On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to CSESoc or its successor, provided they are charitable at law or in the event that neither exists - an organisation with similar goals or objectives to the club that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc Clubs UNSW shall be the recipient of all assets, provided it is charitable at law. If Arc Club UNSW is not charitable at law, all assets will be distributed to an organisation with similar goals or objectives to the club that also prohibits the distribution of assets to members. 

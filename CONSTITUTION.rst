@@ -269,9 +269,9 @@ Handover Period
 
       #. All members of both the Executive, and the Executive-elect are required to attend the Handover Meeting.
       #. The Handover Meeting shall be held in confidence.
-      #. At the Handover Meeting, the current Executive shall pass on all knowledge of, and advice regarding the Society to the Executive-elect.
+      #. At the Handover Meeting, the outgoing Executive shall pass on all knowledge of, and advice regarding the Society to the Executive-elect.
 
-   #. All decisions of the Club are to remain solely of the current Executive, subject to Section 3.1 clause 6.
+   #. All decisions of the Club are to remain solely of the outgoing Executive, subject to Section 3.1 clause 6.
    #. The Executive and Executive-elect may choose to terminate the Handover Period at any time by majority vote.
 
 #. At the conclusion of the Handover Period, the Executive is dissolved and the Executive-elect assumes their elected positions.
@@ -286,7 +286,8 @@ Handover Period
    planned activities operate smoothly under the jurisdiction of the outgoing Executive as the Executive-elect and 
    Committee-elect familiarise themselves with their respective roles.
 
-   The Executive-elect is suggested to plan and carry on their duties outlined in Section 3.1 clause 3.
+   The Executive-elect is suggested to carry on their duties outlined in Section 3.1 clause 3 within the context of their tenure. 
+   The outgoing Executive is strong advised against enacting decisions that will infringe on the duties and decisions of the Executive-elect within the context of Executive-elect's tenure, and should merely act as an advisory body.
 
    ~ the 2023 Executive Team
 

@@ -286,7 +286,7 @@ Handover Period
    planned activities operate smoothly under the jurisdiction of the outgoing Executive as the Executive-elect and 
    Committee-elect familiarise themselves with their respective roles.
 
-   The Executive-elect is suggested to plan for the Club's activities during their tenure and appoint the Committee-elect.
+   The Executive-elect is suggested to plan and carry on their duties outlined in Section 3.1 clause 3.
 
    ~ the 2023 Executive Team
 

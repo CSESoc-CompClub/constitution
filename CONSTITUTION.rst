@@ -89,7 +89,7 @@ The Executive Generally
       
       #. Appointments will be made by majority vote of the Executive.
    
-   #. The maintenance and review of policies & procedures of the Club, including its Grievance Resolution Policy & Procedure and compliance with the University Child Protection Policy.
+   #. The maintenance and review of policies & procedures of the Club, including its Grievance Resolution Policy & Procedure and Child Protection Policy.
 
 #. There is no maximum number of consecutive terms for which an Executive member may hold office.
 #. Subject to this Constitution, members of the Executive hold office until the Executive is dissolved at the conclusion of the Handover Period.

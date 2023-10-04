@@ -1,6 +1,9 @@
-###################
+############################
 CSESoc CompClub Constitution
-###################
+############################
+
+.. sectnum::
+   :start: 1
 
 .. Contents::
 
@@ -14,10 +17,12 @@ The Society
 #. The official name of the club shall be CSESoc CompClub.
 #. The aims and objectives of the club are:
    
-   #. Introduce highschool students to computer science and coding.
+   #. Introduce highschool students to computer science, programming, related careers and industries.
+   #. Promote the computing field to underrepresented groups of highschool students.
    #. Deliver engaging and high quality learning content to students.
    #. Help current CSE students gain teaching and volunteering experience.
 
+#. The assets and income of the club shall be applied solely to further its objects and no portion shall be distributed directly or indirectly to the members of the club except as genuine compensation for services rendered or expenses incurred on behalf of the organisation.
 
 Definitions
 -----------
@@ -33,39 +38,44 @@ Definitions
    #. An academic day shall mean a day during the first, second or third term of the University’s academic year which is not a Saturday, Sunday, Public Holiday or University Holiday; and
    #. Subjects shall mean units of study offered by the University in progression to the award of a degree.
    #. The School shall mean the School of Computer Science and Engineering, at the University. 
+   #. The ACNC shall mean the Australian Charities and Not-for-profits Commission
 
-#. Unless a contrary statement appears in Section 7 of this Constitution, the club shall be bound by all the clauses in Section 2 to Section 6 of this Constitution.
+#. Unless a contrary statement appears in Section 7 of this Constitution, the Club shall be bound by all the clauses in Section 2 to Section 6 of this Constitution.
 
 
 Membership
 ==========
 
-#. Contact details for members of the club are to remain with the Executive to have sole access. Contact details are not to be given or sold to any other person.
+#. Contact details for members of the Club are to remain with the Executive to have sole access. Contact details are not to be given or sold to any other person.
 #. The Club has an agreed association with the UNSW School of Computer Science and Engineering. Full membership of the Club shall be open to all UNSW students enrolled in or previously completed subjects that are under the jurisdiction of the School.
    
    #. Full Members must possess a valid volunteer Working With Childrens Check.  
 
-#. The duration of a person’s membership shall be until the club’s next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the latter.
+#. The duration of a person’s membership shall be until the Club’s next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the latter.
 #. Members of the Club must hold a valid NSW Working With Childrens Check;
-#. The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
-#. Notwithstanding clause 2.8, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 3.6.
-#. Notwithstanding clause 2.8, a member or associate member of a club may have their membership terminated after the following procedure is followed:
+#. The Club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
+#. Notwithstanding clause 8, a member of the Club Executive may have their position declared vacant according to the procedures set out in Section 3.1 clause 7.
+#. Notwithstanding clause 8, a member or associate member of the Club may have their membership terminated after the following procedure is followed:
    
    #. A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
-   #. The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2;
+   #. The members of the Club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2;
    #. The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting.
    #. The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting.
    
    #. The motion is carried by the Extraordinary General Meeting.
-#. Any member of a club or club Executive who believes they have been wrongly expelled may appeal to the Community Liaison officer (or by following the grievance procedure), who will arrive at the final resolution of the matter.
+#. Any member of the Club or Club Executive who believes they have been wrongly expelled may appeal to the Community Liaison officer (or by following the grievance procedure), who will arrive at the final resolution of the matter.
 
 
 Executive
 =========
 
-#. The Executive of the club shall be elected from the full members at the Annual General Meeting and shall consist of:
+The Executive Generally
+-----------------------
+
+#. The Executive of the Club shall be elected from the full members at the Annual General Meeting and shall consist of:
    
-   #. Two (2) Co-President;
+   #. One (1) Co-President (Externals);
+   #. One (1) Co-President (Internals);
    #. One (1) Secretary;
    #. One (1) Treasurer;
    #. One (1) Community Liaison;
@@ -79,9 +89,10 @@ Executive
       
       #. Appointments will be made by majority vote of the Executive.
    
-   #. The maintenance and review of policies & procedures of the Club, including its Grievance Resolution Policy & Procedure.
+   #. The maintenance and review of policies & procedures of the Club, including its Grievance Resolution Policy & Procedure and Child Protection Policy.
 
 #. There is no maximum number of consecutive terms for which an Executive member may hold office.
+#. Subject to this Constitution, members of the Executive hold office until the Executive is dissolved at the conclusion of the Handover Period.
 #. The Executive is at all times bound by the decisions of a club Annual or Extraordinary General Meeting.
 #. Any member of the Executive shall have their position declared vacant if they:
    
@@ -92,19 +103,19 @@ Executive
 
 #. Any member of the Committee shall have their position declared vacant if they:
    
-   #. Meet the criteria outlined in section 3.6; or
+   #. Meet the criteria outlined in clause 7; or
    #. Are removed from their role by majority vote of the executive.
 
-#. Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.
+#. Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.2.
 #. Duties of the following Executive positions shall include but not be limited to:
 
 Duties of the Executive
 -----------------------
 
-Co-Presidents
-"""""""""""""
+The Co-Presidents
+"""""""""""""""""
 
-#. The duties of both Co-President (Externals) and Co-President (Internals) shall be:
+#. The common duties of the Co-President (Externals) and Co-President (Internals) shall be:
 
    #. To chair all club, Committee, General and Annual General Meetings (held during their term) of the club;
    #. To oversee and coordinate the activities and administration of the club;
@@ -117,79 +128,83 @@ Co-Presidents
    #. To liaise with fellow office bearers;
    #. To acquaint each committee member with their function, responsibility, duties and maintain personal contact with them;
    #. To liaise with CSESoc and departments of the University where necessary;
-   #. To ensure that the Treasurer submits a Financial Report to the club at the AGM, to be made publicly available.
+   #. To ensure that the Treasurer submits a Financial Report to the club at the AGM, to be made publicly available;
    #. To ensure that CSESoc and the School is informed of changes to the Executive;
+   #. To ensure that the club continues to be a charity;
    #. To pass on their knowledge to their successor; and
    #. Other duties as in accordance with the Constitution of the club.
-   
-Co-President (Externals) 
-""""""""""""""""""""""""
 
-#. The duties of the Co-President (Externals) in addition to the Co-President duties shall be
-   
-   #. Supervise the external facing aspects of the society and oversee the Externals portfolio
-   #. Sustain and build external relationships with schools and sponsors for CompClub.
-   #. Facilitate culture and team relations within the society. 
-   #. Other relevant duties as required.
+#. The duties of the Co-President (Externals) shall be
+
+   #. To supervise the external-facing aspects of the Club, including events conducted at high schools and related Portfolios; 
+   #. To sustain and build external relationships with highschools and sponsors for CompClub;
+   #. To facilitate culture and team relations within the society;
+   #. Other relevant duties as required;
  
-Co-President (Internals) 
-""""""""""""""""""""""""
- 
-#. The duties of the Co-President (Internals) in addition to the Co-President duties shall be
+#. The duties of the Co-President (Internals) shall be
    
-   #. Supervise and oversee the Internals portfolio
-   #. Facilitate culture and team relations within the society. 
-   #. Other relevant duties as required.
+   #. To supervise events conducted within the University and related Portfolios; 
+   #. To communicate with the Executive before and after any relevant Meetings with the School, to pass on information;
+   #. To liaise with the School and the club’s Executive
+   #. To facilitate culture and team relations within the society;
+   #. Other relevant duties as required;
 
 
 Secretary
 """""""""
+#. The duties of the Secretary shall be:
 
-#. To be responsible for receiving and replying to all correspondence on behalf of the club;
-#. To organise meetings, agendas (in consultation with the President), and minutes;
-#. To keep relevant club papers in order;
-#. To coordinate elections; and
-#. To maintain the membership list, updating when changes are made.
+   #. To be responsible for receiving and replying to all correspondence on behalf of the club;
+   #. To organise meetings, agendas (in consultation with the Co-Presidents), and minutes;
+   #. To communicate with the Executive before and after any relevant CSESoc Meetings, to pass on information;
+   #. To liaise with CSESoc and the club’s Executive;
+   #. To notify the ACNC of the details of changes of the club as outlined by the ACNC.
+   #. To submit the Annual Information Statement to the ACNC.
+   #. To keep relevant club papers in order;
+   #. To coordinate elections; and
+   #. To maintain the membership list, updating when changes are made.
 
 Treasurer
 """""""""
+#. The duties of the Treasurer shall be:
 
-#. To keep and maintain all club financial records;
-#. To hold cheque books, petty cash tins etc;
-#. To coordinate with the school on budgets and funding where appropriate
-#. To keep the club informed of its financial position (at meetings, through regular e-mail reports, or regular newsletters;
-#. To carry out financial transactions as directed by the club management;
-#. To not lend money, under any circumstances to themselves, club members or other clubs;
-#. To always ensure that the records are up to date and in good order so that if they are otherwise unable to continue in that capacity someone else can easily take over;
-#. To not put the club in debt that cannot be repaid, but should endeavour to match costs and income as closely as possible;
-#. To always insist on a receipt or docket to validate any expenditure by the club;
-#. To pay all accounts by cheque;
-#. To always provide a receipt to a person who gives money to the club for any reason and bank all money received IMMEDIATELY;
-#. To ensure the Club has at least two and not more than three signatories who are Executive members to the cheque account;
-#. To ensure that club funds are not misused at any time; and
-#. To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained;
-#. To ensure that under no circumstances are any expenses to be met without documentation.
+   #. To keep and maintain all club financial records;
+   #. To hold cheque books, petty cash tins etc;
+   #. To coordinate with the school on budgets and funding where appropriate
+   #. To keep the club informed of its financial position at meetings, through regular e-mail reports, or regular newsletters;
+   #. To carry out financial transactions as directed by the club management;
+   #. To not lend money, under any circumstances to themselves, club members or other clubs;
+   #. To always ensure that the records are up to date and in good order so that if they are otherwise unable to continue in that capacity someone else can easily take over;
+   #. To not put the club in debt that cannot be repaid, but should endeavour to match costs and income as closely as possible;
+   #. To always insist on a receipt or docket to validate any expenditure by the club;
+   #. To pay all accounts by cheque;
+   #. To always provide a receipt to a person who gives money to the club for any reason and bank all money received IMMEDIATELY;
+   #. To ensure the Club has at least two and not more than three signatories who are Executive members to the cheque account;
+   #. To ensure that club funds are not misused at any time; and
+   #. To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained;
+   #. To ensure that under no circumstances are any expenses to be met without documentation.
 
 Community Liaison
 """""""""""""""""
+#. The duties of the Community Liaison shall be:
 
-#. To communicate with the Executive before and after any relevant CSESoc Meetings, to pass on information;
-#. To liaise with CSESoc and the club’s Executive;
-#. To receive complaints and grievances relating to the Club;
-#. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
-#. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and
-#. To notify those involved of the outcome of the grievance.
-#. To maintain the club’s grievance procedure alongside the exec;
-#. Fostering an inclusive culture within the Club;
-#. Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and indigenous students);
-#. Engaging & representing student members of non-majority demographics of the Club;
-#. Ensuring the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
-#. Ensuring that all Club communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
-#. Being an accessible contact for members, UNSW students and UNSW staff for matters regarding equitable events, activities, conduct and diversity within the Club;
-#. Providing guidance to representatives of the Club (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
-#. Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive;
-#. Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive;
-#. Other relevant duties as required
+   #. To receive complaints and grievances relating to the Club;
+   #. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
+   #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and
+   #. To notify those involved of the outcome of the grievance.
+   #. To maintain the club’s grievance procedure alongside the Executive;
+   #. Fostering an inclusive culture within the Club and its events and activities;
+   #. Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and indigenous students). This may include:
+   
+      #. Fostering and expanding an online community
+   #. Engaging & representing student members of non-majority demographics of the Club;
+   #. Ensuring the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
+   #. Being an accessible contact for members, highschool students, parents/guardians/carers, UNSW students and UNSW staff for matters regarding accessible and equitable events, activities, conduct and diversity within the Club;
+   #. Ensuring that all Club communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
+   #. Providing guidance to representatives of the Club (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
+   #. Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive;
+   #. Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive;
+   #. Other relevant duties as required
 
 Election of the Executive
 -------------------------
@@ -216,11 +231,7 @@ Election of the Executive
    
    #. In order to be appointed to an executive position, winner(s) of the election must accept their role and the motion to appoint them has to pass at the Annual General Meeting meeting, or at an Extraordinary General Meeting.
 
-#. Only full members who have attended an event are entitled to vote for the Executive.
-   
-   #. An event is defined as anything run by CompClub, as confirmed by the Executive. 
-   #. These members may also be referred to as voting members;
-
+#. Only full members of the Club are entitled to vote for the Executive.
 #. Voting is to be confidential and anonymous with the exception of,
 #. Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
    
@@ -231,12 +242,13 @@ Election of the Executive
 Delegation of Executive to the Portfolio
 ----------------------------------------
 
-#. The Executive may, by instrument in writing, delegate to one or more Portfolios (consisting of the member or members of CSESoc that the Executive thinks fit) the exercise of any of the functions of the Executive that are specified in the instrument, other than:
+#. The Executive may, by instrument in writing, delegate to one or more Portfolios (consisting of the member or members of CompClub that the Executive thinks fit) the exercise of any of the functions of the Executive that are specified in the instrument, other than:
    
    #. this power of delegation, and
    #. a function which is a duty imposed on the Executive by the Act or by any other law.
    #. for the avoidance of doubt, any function that would require a General Meeting.
 
+#. Subject to Section 3.2.1 clauses 2.2 and 3.1, the members of the Executive are to each supervise and oversee the delegated functions of at least one Portfolio.
 #. A function the exercise of which has been delegated to a Portfolio under this clause may, while the delegation remains unrevoked, be exercised from time to time by the Portfolio in accordance with the terms of the delegation.
 #. A delegation under this clause may be made subject to any conditions or limitations as to the exercise of any function, or as to time or circumstances, that may be specified in the instrument of delegation.
    
@@ -246,6 +258,38 @@ Delegation of Executive to the Portfolio
 #. Any act or thing done or suffered by a Portfolio acting in the exercise of a delegation under this clause has the same force and effect as it would have if it had been done or suffered by the Executive.
 #. The Executive may, by instrument in writing, revoke wholly or in part any delegation under this clause.
 
+Handover Period
+---------------
+
+#. The duration of the Handover Period shall begin following the election of the Executive-elect, and be until the Club's final planned activity, or until the end of Week One in Term One of the next University year, whichever is earlier.
+#. During this period:
+   
+   #. The current Executive shall pass on all knowledge of, and advice regarding the Society to the Executive-elect.
+   #. Conduct a Handover Meeting no more than a calendar month after the pronouncement of election results.
+
+      #. All members of both the Executive, and the Executive-elect are required to attend the Handover Meeting.
+      #. The Handover Meeting shall be held in confidence.
+      #. At the Handover Meeting, the outgoing Executive shall pass on all knowledge of, and advice regarding the Society to the Executive-elect.
+
+   #. All decisions of the Club are to remain solely of the outgoing Executive, subject to Section 3.1 clause 6.
+   #. The Executive and Executive-elect may choose to terminate the Handover Period at any time by majority vote.
+
+#. At the conclusion of the Handover Period, the Executive is dissolved and the Executive-elect assumes their elected positions.
+
+:: 
+
+   Explantory Note:
+
+   CompClub is unique in that we conduct one of our flagship events during the Summer University Holidays. Section 3.1 clause 5 
+   and Section 3.5 were added to the Constitution to account for the administrative and logistical challenges 
+   that arise whilst conducting Club activities during this period of drastic change. These clauses ensure that the Club's 
+   planned activities operate smoothly under the jurisdiction of the outgoing Executive as the Executive-elect and 
+   Committee-elect familiarise themselves with their respective roles.
+
+   The Executive-elect is suggested to carry on their duties outlined in Section 3.1 clause 3 within the context of their tenure. 
+   The outgoing Executive is strong advised against enacting decisions that will infringe on the duties and decisions of the Executive-elect within the context of Executive-elect's tenure, and should merely act as an advisory body.
+
+   ~ the 2023 Executive Team
 
 Meetings
 ========
@@ -253,7 +297,7 @@ Meetings
 Annual General Meetings
 -----------------------
 
-#. Each Annual General meeting (AGM) must occur within fifteen (15) months since the calendar date of the last AGM or Initial General Meeting..
+#. Each Annual General meeting (AGM) must occur within fifteen (15) months since the calendar date of the last AGM or Initial General Meeting.
 #. Notice in the form of an agenda for the Annual General Meeting shall be no less than seven (7) days, and is to be:
    
    #. Given in writing to all club members.
@@ -271,7 +315,7 @@ Annual General Meetings
 Extraordinary General Meetings
 ------------------------------
 
-#. There shall be Extraordinary General Meetings (EGM) as the Executive sees fit or as petitioned under clause 4.8.
+#. There shall be Extraordinary General Meetings (EGM) as the Executive sees fit or as petitioned under clause 3.
 #. The format, procedures, notice and quorum for an Extraordinary General Meeting shall be the same as for an Annual General Meeting, except that Executive elections will not be held unless specifically notified.
 #. To petition for an Extraordinary General Meeting, ten (10) voting members or half of the club membership, whichever is the lesser, must petition the Executive in writing.
 #. Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than seven (7) days.
@@ -301,12 +345,12 @@ Finance
 
 
 Dissolution
------------
+===========
 
 #. Dissolution of the club will occur after the following conditions have been met:
 
-   #. An Extraordinary General Meeting is petitioned in writing as set out in 4.8;
-   #. Procedures for notification as set out in 4.2 are followed, and the reasons for the proposed dissolution are included with the notification to the public;
+   #. An Extraordinary General Meeting is petitioned in writing as set out in Section 4.2 clause 3;
+   #. Procedures for notification as set out in Section 4.2 are followed, and the reasons for the proposed dissolution are included with the notification to the public;
    #. Quorum for the meeting to dissolve the club shall be fifteen (15) voting members or three-quarters of the club membership, whichever is the lesser;
    #. No other business may be conducted at the meeting to dissolve the club;
    #. After the petitioning body has stated its case any opposition must be given the opportunity to reply, with at least ten minutes set aside for this purpose;
@@ -314,4 +358,4 @@ Dissolution
    #. If the motion to dissolve is carried, CSESoc and the School must be notified within fourteen (14) days.
 
 #. Dissolution of the club will also occur if the club has been financially and administratively inactive for a period of eighteen (18) months.
-#. On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to CSESoc, its successor, or in the event that neither exists - an organisation with similar goals or objectives that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc Clubs UNSW shall be the recipient of all assets. 
+#. On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to CSESoc or its successor, provided they are charitable at law or in the event that neither exists - an organisation with similar goals or objectives to the club that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc Clubs UNSW shall be the recipient of all assets, provided it is charitable at law. If Arc Club UNSW is not charitable at law, all assets will be distributed to an organisation with similar goals or objectives to the club that also prohibits the distribution of assets to members. 

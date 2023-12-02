@@ -1,5 +1,5 @@
 ############################
-CSESoc CompClub Constitution
+CompClub Constitution
 ############################
 
 .. sectnum::
@@ -14,7 +14,7 @@ Introduction
 The Society
 -----------
 
-#. The official name of the club shall be CSESoc CompClub.
+#. The official name of the club shall be CompClub.
 #. The aims and objectives of the club are:
    
    #. Introduce highschool students to computer science, programming, related careers and industries.
@@ -23,6 +23,7 @@ The Society
    #. Help current CSE students gain teaching and volunteering experience.
 
 #. The assets and income of the club shall be applied solely to further its objects and no portion shall be distributed directly or indirectly to the members of the club except as genuine compensation for services rendered or expenses incurred on behalf of the organisation.
+#. In all matters not specifically dealt with herein, the procedures set out in the latest edition of Guide for Meetings and Organisations by N.E. Renton shall apply.
 
 Definitions
 -----------
@@ -30,15 +31,17 @@ Definitions
 #. For the purposes of this Constitution:
    
    #. The University shall mean the University of New South Wales;
-   #. CSESoc shall mean the Computer Science and Engineering Society of UNSW;
+   #. Arc shall mean Arc @ UNSW Limited;
    #. Members shall mean full members of the club;
+   #. Associate members shall mean associate members of the club;
    #. The Executive shall mean the Executive of the club;
    #. The Committee shall mean the Executive of the club as well as any member appointed by the Executive to fill a specific role;
    #. The Annual General Meeting shall mean the Annual General Meeting of the club;
-   #. An academic day shall mean a day during the first, second or third term of the University’s academic year which is not a Saturday, Sunday, Public Holiday or University Holiday; and
-   #. Subjects shall mean units of study offered by the University in progression to the award of a degree.
-   #. The School shall mean the School of Computer Science and Engineering, at the University. 
-   #. The ACNC shall mean the Australian Charities and Not-for-profits Commission
+   #. An academic day shall mean a day during the first, second or third term of the University’s academic year which is not a Saturday, Sunday, Public Holiday or University Holiday;
+   #. Subjects shall mean units of study offered by the University in progression to the award of a degree;
+   #. The School shall mean the School of Computer Science and Engineering, at the University;
+   #. The ACNC shall mean the Australian Charities and Not-for-profits Commission; and
+   #. CSESoc shall mean the Computer Science and Engineering Society of UNSW.
 
 #. Unless a contrary statement appears in Section 7 of this Constitution, the Club shall be bound by all the clauses in Section 2 to Section 6 of this Constitution.
 
@@ -47,12 +50,20 @@ Membership
 ==========
 
 #. Contact details for members of the Club are to remain with the Executive to have sole access. Contact details are not to be given or sold to any other person.
-#. The Club has an agreed association with the UNSW School of Computer Science and Engineering. Full membership of the Club shall be open to all UNSW students enrolled in or previously completed subjects that are under the jurisdiction of the School.
-   
-   #. Full Members must possess a valid volunteer Working With Childrens Check.  
+#. Full membership of the club shall be subject to the following conditions:
+
+   #. That person is a current UNSW student
+   #. That person has a valid volunteer NSW Working With Childrens Check
+   #. That person completes the membership form prepared by the club Executive
+   #. Full membership shall not require any fee
+
+#. Associate membership shall be open to all persons who are not UNSW students, and shall be subject to the following conditions:
+
+   #. That person has a valid volunteer NSW Working With Childrens Check
+   #. That person completes the membership form prepared by the club Executive
+   #. Associate membership shall not require any fee
 
 #. The duration of a person’s membership shall be until the Club’s next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the latter.
-#. Members of the Club must hold a valid NSW Working With Childrens Check;
 #. The Club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
 #. Notwithstanding clause 8, a member of the Club Executive may have their position declared vacant according to the procedures set out in Section 3.1 clause 7.
 #. Notwithstanding clause 8, a member or associate member of the Club may have their membership terminated after the following procedure is followed:
@@ -61,9 +72,9 @@ Membership
    #. The members of the Club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2;
    #. The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting.
    #. The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting.
-   
    #. The motion is carried by the Extraordinary General Meeting.
-#. Any member of the Club or Club Executive who believes they have been wrongly expelled may appeal to the Community Liaison officer (or by following the grievance procedure), who will arrive at the final resolution of the matter.
+
+#. Any member of the Club or Club Executive who believes they have been wrongly expelled may appeal to Arc, who will arrive at the final resolution of the matter.
 
 
 Executive
@@ -80,6 +91,7 @@ The Executive Generally
    #. One (1) Treasurer;
    #. One (1) Community Liaison;
 
+#. Subject to this Constitution, members of the Executive hold office until the Executive is dissolved at the conclusion of the Handover Period.
 #. One member is permitted to hold up to two Executive positions, provided that a minimum of three different members shall remain on the Executive at all times, with the exception that the positions of Co-President and Treasurer may not be held by the same person.
 #. The Executive shall be responsible for the following duties:
    
@@ -92,7 +104,6 @@ The Executive Generally
    #. The maintenance and review of policies & procedures of the Club, including its Grievance Resolution Policy & Procedure and Child Protection Policy.
 
 #. There is no maximum number of consecutive terms for which an Executive member may hold office.
-#. Subject to this Constitution, members of the Executive hold office until the Executive is dissolved at the conclusion of the Handover Period.
 #. The Executive is at all times bound by the decisions of a club Annual or Extraordinary General Meeting.
 #. Any member of the Executive shall have their position declared vacant if they:
    
@@ -127,9 +138,10 @@ The Co-Presidents
    #. To arrive at a membership fee with the Executive;
    #. To liaise with fellow office bearers;
    #. To acquaint each committee member with their function, responsibility, duties and maintain personal contact with them;
-   #. To liaise with CSESoc and departments of the University where necessary;
+   #. To liaise with Arc and departments of the University where necessary;
+   #. To ensure that all required reaffiliation documentation is submitted to Arc within the time period prescribed by Arc;
    #. To ensure that the Treasurer submits a Financial Report to the club at the AGM, to be made publicly available;
-   #. To ensure that CSESoc and the School is informed of changes to the Executive;
+   #. To ensure that Arc and the School is informed of changes to the Executive;
    #. To ensure that the club continues to be a charity;
    #. To pass on their knowledge to their successor; and
    #. Other duties as in accordance with the Constitution of the club.
@@ -163,6 +175,14 @@ Secretary
    #. To keep relevant club papers in order;
    #. To coordinate elections; and
    #. To maintain the membership list, updating when changes are made.
+   #. To assume the role of Arc Delegate and its duties:
+
+      #. To be aware of the Arc funding system, its requirements and its possibilities for the club;
+      #. To communicate with the Executive before and after each Arc Clubs Briefing to pass on information (about grants etc);
+      #. To liaise with Arc and the club’s Executive;
+      #. To have a good working knowledge of Arc forms;
+      #. To collect mail on behalf of the Club from the Arc Clubs Space at least every two weeks; and
+      #. To attend Arc Clubs Briefings or nominate a fellow club member to attend on their behalf, or send apologies in advance (taking the form of an email detailing their name, club, and the date of the meeting they cannot attend);
 
 Treasurer
 """""""""
@@ -170,7 +190,7 @@ Treasurer
 
    #. To keep and maintain all club financial records;
    #. To hold cheque books, petty cash tins etc;
-   #. To coordinate with the school on budgets and funding where appropriate
+   #. To coordinate with the School on budgets and funding where appropriate
    #. To keep the club informed of its financial position at meetings, through regular e-mail reports, or regular newsletters;
    #. To carry out financial transactions as directed by the club management;
    #. To not lend money, under any circumstances to themselves, club members or other clubs;
@@ -310,7 +330,7 @@ Annual General Meetings
    #. Elections for a new Executive shall be conducted; and
    #. Constitutional amendments and other motions on notice may be discussed and voted upon.
 
-#. Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to CSESoc and the School, and published on the Club’s website within fourteen (14) days of the meeting.
+#. Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc and the School, and published on the Club’s website within fourteen (14) days of the meeting.
 
 Extraordinary General Meetings
 ------------------------------
@@ -350,12 +370,12 @@ Dissolution
 #. Dissolution of the club will occur after the following conditions have been met:
 
    #. An Extraordinary General Meeting is petitioned in writing as set out in Section 4.2 clause 3;
-   #. Procedures for notification as set out in Section 4.2 are followed, and the reasons for the proposed dissolution are included with the notification to the public;
+   #. Procedures for notification as set out in Section 4.2 are followed, and the reasons for the proposed dissolution are included with the notification to Arc;
    #. Quorum for the meeting to dissolve the club shall be fifteen (15) voting members or three-quarters of the club membership, whichever is the lesser;
    #. No other business may be conducted at the meeting to dissolve the club;
    #. After the petitioning body has stated its case any opposition must be given the opportunity to reply, with at least ten minutes set aside for this purpose;
    #. A vote is taken and the motion to dissolve lapses if opposed by fifteen (15) or more members of the club;
-   #. If the motion to dissolve is carried, CSESoc and the School must be notified within fourteen (14) days.
+   #. If the motion to dissolve is carried, Arc and the School must be notified within fourteen (14) days.
 
 #. Dissolution of the club will also occur if the club has been financially and administratively inactive for a period of eighteen (18) months.
-#. On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to CSESoc or its successor, provided they are charitable at law or in the event that neither exists - an organisation with similar goals or objectives to the club that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc Clubs UNSW shall be the recipient of all assets, provided it is charitable at law. If Arc Club UNSW is not charitable at law, all assets will be distributed to an organisation with similar goals or objectives to the club that also prohibits the distribution of assets to members. 
+#. On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to an organisation with similar goals or its successor, provided they are charitable at law. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc will begin procedures to recover any property, monies or records belonging to the club which it perceives would be useful to other Arc-affiliated clubs, provided it is charitable at law. The club will be given twenty one (21) days to forward all relevant items to Arc before any action is instigated. If Arc is not charitable at law, all assets will be distributed to an organisation with similar goals or objectives to the club that also prohibits the distribution of assets to members. 

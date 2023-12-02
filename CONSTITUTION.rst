@@ -1,5 +1,5 @@
 ############################
-CSESoc CompClub Constitution
+CompClub Constitution
 ############################
 
 .. sectnum::
@@ -330,7 +330,7 @@ Annual General Meetings
    #. Elections for a new Executive shall be conducted; and
    #. Constitutional amendments and other motions on notice may be discussed and voted upon.
 
-#. Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to CSESoc and the School, and published on the Club’s website within fourteen (14) days of the meeting.
+#. Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc and the School, and published on the Club’s website within fourteen (14) days of the meeting.
 
 Extraordinary General Meetings
 ------------------------------
@@ -370,12 +370,12 @@ Dissolution
 #. Dissolution of the club will occur after the following conditions have been met:
 
    #. An Extraordinary General Meeting is petitioned in writing as set out in Section 4.2 clause 3;
-   #. Procedures for notification as set out in Section 4.2 are followed, and the reasons for the proposed dissolution are included with the notification to the public;
+   #. Procedures for notification as set out in Section 4.2 are followed, and the reasons for the proposed dissolution are included with the notification to Arc;
    #. Quorum for the meeting to dissolve the club shall be fifteen (15) voting members or three-quarters of the club membership, whichever is the lesser;
    #. No other business may be conducted at the meeting to dissolve the club;
    #. After the petitioning body has stated its case any opposition must be given the opportunity to reply, with at least ten minutes set aside for this purpose;
    #. A vote is taken and the motion to dissolve lapses if opposed by fifteen (15) or more members of the club;
-   #. If the motion to dissolve is carried, CSESoc and the School must be notified within fourteen (14) days.
+   #. If the motion to dissolve is carried, Arc and the School must be notified within fourteen (14) days.
 
 #. Dissolution of the club will also occur if the club has been financially and administratively inactive for a period of eighteen (18) months.
-#. On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to CSESoc or its successor, provided they are charitable at law or in the event that neither exists - an organisation with similar goals or objectives to the club that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc Clubs UNSW shall be the recipient of all assets, provided it is charitable at law. If Arc Club UNSW is not charitable at law, all assets will be distributed to an organisation with similar goals or objectives to the club that also prohibits the distribution of assets to members. 
+#. On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to an organisation with similar goals or its successor, provided they are charitable at law. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc will begin procedures to recover any property, monies or records belonging to the club which it perceives would be useful to other Arc-affiliated clubs, provided it is charitable at law. The club will be given twenty one (21) days to forward all relevant items to Arc before any action is instigated. If Arc is not charitable at law, all assets will be distributed to an organisation with similar goals or objectives to the club that also prohibits the distribution of assets to members. 

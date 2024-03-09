@@ -53,13 +53,11 @@ Membership
 #. Full membership of the club shall be subject to the following conditions:
 
    #. That person is a current UNSW student
-   #. That person has a valid volunteer NSW Working With Childrens Check
    #. That person completes the membership form prepared by the club Executive
    #. Full membership shall not require any fee
 
 #. Associate membership shall be open to all persons who are not UNSW students, and shall be subject to the following conditions:
 
-   #. That person has a valid volunteer NSW Working With Childrens Check
    #. That person completes the membership form prepared by the club Executive
    #. Associate membership shall not require any fee
 

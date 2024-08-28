@@ -21,9 +21,9 @@ The Society
 #. **The club shall be affiliated with Arc.**
 
 ::
+
    Constitution amendment note:
    Adding this line to better align with the Arc Clubs Model Constitution
-::
 
 #. The aims and objectives of the club are:
 

@@ -116,8 +116,7 @@ The Executive Generally
 
 #. The Executive of the Club shall be elected from the full members at the Annual General Meeting and shall consist of:
 
-   #. One (1) :strike:`Co-`President :strike:`(Externals)`;
-   #. :strike:`One (1) Co-President (Internals);`
+   #. One (1) **President**;
    #. One (1) Secretary;
    #. One (1) Treasurer;
    #. One (1) Community Liaison;
@@ -125,19 +124,8 @@ The Executive Generally
    #. **One (1) Vice President (Outreach);**
    #. **One (1) Vice President (Operations);**
 
-::
-
-   Constitution amendment note:
-   With a growing committee size and greater ambitions, the Executives believe it is time for the Executive team to grow in accordance. We feel the inclusion of vice presidents will greater allow for responsibilities of portfolios to be handled be a dedicated person focused on bringing out the best of that area of the club. In doing so, the required responsibilities for the Co-Presidents has reduced to the point we believe only one president is necessary for the club. Further information of the new roles can be found below in Section ..., as well as smaller changes to reflect the new Executive team that may not have notes attached.
-
-   ~ the 2024 Executive Team
-
 #. Subject to this Constitution, members of the Executive hold office until the Executive is dissolved at the conclusion of the Handover Period.
-#. One member is permitted to hold up to two Executive positions, provided that a minimum of three different members shall remain on the Executive at all times, with the exception that the positions of :strike:`Co-`President and Treasurer, **and President and Community Liaison** may not be held by the same person.
-
-::
-   Constitution amendment note:
-   Arc requires that the responsibilities of a Wellfare Officer be present within the Constitution for reaffiliation. These responsibilities will largely be reflected within the role of the Community Liaison, and these duties cannot be shared by the President. Further details can be found below in Section ...
+#. One member is permitted to hold up to two Executive positions, provided that a minimum of three different members shall remain on the Executive at all times, with the exception that the positions of **President** and Treasurer, **and President and Community Liaison** may not be held by the same person.
 
 #. The Executive shall be responsible for the following duties:
 
@@ -161,11 +149,6 @@ The Executive Generally
    #. **Are absent from any three (3) consecutive meetings of the Club without apology or leave;**
    #. **Meet the criteria outlined in Section 2 clause 7 or 8.**
 
-::
-   Constitution amendment note:
-   Arc strongly recommends the addition of clause 7.6, with the reasoning: "This aims to reduce the harm and distress caused by public EGMs and provide a common-sense solution to ensure your team can be at full strength."
-   The rest of the changes are to better align with the Arc Clubs Model Constitution.
-
 #. Any member of the Committee shall have their position declared vacant if they:
 
    #. Meet the criteria outlined in clause 7 **or Section 2 clause 7 or 8**; or
@@ -178,7 +161,25 @@ The Executive Generally
 
    Constitution amendment note:
 
-   Arc strongly recommends the addition of clause 10, with the reasoning that a full EGM within 4 weeks of the AGM is rather unnnecesary, especially in the case of someone going overseas for exchange starting in term 3.
+   Arc requires that the responsibilities of a Wellfare Officer be present within the Constitution for reaffiliation.
+   These responsibilities will largely be reflected within the role of the Community Liaison, and
+   these duties cannot be shared by the President. Further details can be found below in Section ...
+
+   Arc strongly recommends the addition of clause 7.6, with the reasoning: "This aims to reduce the harm
+   and distress caused by public EGMs and provide a common-sense solution to ensure your team can be at full strength."
+   Clauses 7.3 and 7.6 are to better align with the Arc Clubs Model Constitution.
+
+   Arc strongly recommends the addition of clause 10, with the reasoning that a full EGM within 4 weeks of
+   the AGM is rather unnnecesary, especially in the case of someone going overseas for exchange starting in term 3.
+
+   With a growing committee size and greater ambitions, the 2024 Executive team believe it is time for
+   the Executive team to grow in accordance. We feel the inclusion of vice presidents will greater allow for
+   responsibilities of portfolios to be handled be a dedicated person focused on bringing out the best of
+   that area of the club. In doing so, the required responsibilities for the Co-Presidents has reduced
+   to the point we believe only one president is necessary for the club. Further information of the new roles
+   can be found below in Section ..., as well as smaller changes to reflect the new Executive team that may not have notes attached.
+
+   ~ the 2024 Executive Team
 
 #. Duties of the following Executive positions shall include but not be limited to:
 
@@ -230,7 +231,7 @@ Secretary
 #. The duties of the Secretary shall be:
 
    #. To be responsible for receiving and replying to all correspondence on behalf of the club;
-   #. To organise meetings, agendas (in consultation with the :strike:`Co-`President :strike:`s`), and minutes;
+   #. To organise meetings, agendas (in consultation with the **President**), and minutes;
    #. To communicate with the Executive before and after any relevant CSESoc Meetings, to pass on information;
    #. To liaise with CSESoc and the club's Executive;
    #. To notify the ACNC of the details of changes of the club as outlined by the ACNC.
@@ -507,7 +508,7 @@ Finance
 #. The Executive must approve all accounts and expenditures for payment.
 #. All financial transactions shall require two signatures of members of the Executive.
 #. The club shall nominate three members of the Executive as possible signatories for the account, one of which must be the club Treasurer.
-#. The financial records of the club :strike:`can be requested for inspection by a motion at an EGM or AGM` **shall be open for inspection by Arc at all times**.
+#. The financial records of the club **shall be open for inspection by Arc at all times**.
 
 ::
 

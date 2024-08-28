@@ -38,7 +38,6 @@ The Society
 ::
    Constitution amendment note:
    Arc requires that this clause must be worded as indicated newly without edits for reaffiliation.
-::
 
 #. In all matters not specifically dealt with herein, the procedures set out in the latest edition of Guide for Meetings and Organisations by N.E. Renton shall apply.
 
@@ -108,7 +107,6 @@ Membership
 ::
    Constitution amendment note:
    Arc requires that the membership termination clause be amended with the following for reaffiliation.
-::
 
 #. Any member of the Club or Club Executive who believes they have been wrongly expelled may appeal to Arc, who will arrive at the final resolution of the matter.
 #. **Appeals must be submitted in writing within seven (7) days of receiving the penalty and must include a justification for seeking an appeal.**
@@ -116,7 +114,6 @@ Membership
 ::
    Constitution amendment note:
    Adding this line to better align with the Arc Clubs Model Constitution
-::
 
 
 Executive
@@ -141,7 +138,6 @@ The Executive Generally
    With a growing committee size and greater ambitions, the Executives believe it is time for the Executive team to grow in accordance. We feel the inclusion of vice presidents will greater allow for responsibilities of portfolios to be handled be a dedicated person focused on bringing out the best of that area of the club. In doing so, the required responsibilities for the Co-Presidents has reduced to the point we believe only one president is necessary for the club. Further information of the new roles can be found below in Section ..., as well as smaller changes to reflect the new Executive team that may not have notes attached.
 
    ~ the 2024 Executive Team
-::
 
 #. Subject to this Constitution, members of the Executive hold office until the Executive is dissolved at the conclusion of the Handover Period.
 #. One member is permitted to hold up to two Executive positions, provided that a minimum of three different members shall remain on the Executive at all times, with the exception that the positions of :strike:`Co-`President and Treasurer, **and President and Community Liaison** may not be held by the same person.
@@ -149,7 +145,6 @@ The Executive Generally
 ::
    Constitution amendment note:
    Arc requires that the responsibilities of a Wellfare Officer be present within the Constitution for reaffiliation. These responsibilities will largely be reflected within the role of the Community Liaison, and these duties cannot be shared by the President. Further details can be found below in Section ...
-::
 
 #. The Executive shall be responsible for the following duties:
 
@@ -177,7 +172,6 @@ The Executive Generally
    Constitution amendment note:
    Arc strongly recommends the addition of clause 7.6, with the reasoning: "This aims to reduce the harm and distress caused by public EGMs and provide a common-sense solution to ensure your team can be at full strength."
    The rest of the changes are to better align with the Arc Clubs Model Constitution.
-::
 
 #. Any member of the Committee shall have their position declared vacant if they:
 
@@ -190,7 +184,6 @@ The Executive Generally
 ::
    Constitution amendment note:
    Arc strongly recommends the addition of clause 10, with the reasoning that a full EGM within 4 weeks of the AGM is rather unnnecesary, especially in the case of someone going overseas for exchange starting in term 3.
-::
 
 #. Duties of the following Executive positions shall include but not be limited to:
 
@@ -256,8 +249,7 @@ Secretary
 
 ::
    Constitution amendment note:
-   Adding these lines to better align with the Arc Clubs Model Constitution
-::
+   Adding these lines to better align with the Arc Clubs Model Constitution.
 
    #. To assume the role of Arc Delegate and its duties:
 
@@ -320,7 +312,6 @@ Community Liaison
 ::
    Constitution amendment note:
    Arc requires the addition of a Wellfare Officer for reaffiliation. These responsibilities will largely be reflected within the role of the Community Liaison, and are mostly present as new clauses or wording changes.
-::
 
 
 Election of the Executive
@@ -410,7 +401,7 @@ Handover Period
    The outgoing Executive is strong advised against enacting decisions that will infringe on the duties and decisions of the Executive-elect within the context of Executive-elect's tenure, and should merely act as an advisory body.
 
    ~ the 2023 Executive Team
-::
+
 
 Meetings
 ========
@@ -436,7 +427,6 @@ Returning Officer
 ::
    Constitution amendment note:
    Arc requires the addition of a Returning Officer for meetings for reaffiliation. This role was previously already operated on for our General Meetings with elections, but must now be explicitly listed in the Constitution.
-::
 
 
 Annual General Meetings
@@ -457,7 +447,6 @@ Annual General Meetings
    Constitution amendment note:
    Arc requires that all General meetings have at least fourteen (14) days notice, and that for established clubs (which we should be partway through next year), cannot have Executives count towards Quorum.
    The other changes are to better align with the Arc Clubs Model Constitution.
-::
 
 #. At an Annual General Meeting:
 
@@ -503,7 +492,6 @@ Meetings
    Constitution amendment note:
    Arc requires the addition of "optional preferential" voting systems to be used for elections.
    Further changes are to better align with the Arc Clubs Model Constitution
-::
 
 Finance
 =======
@@ -517,7 +505,6 @@ Finance
 ::
    Constitution amendment note:
    Amending this line to better align with the Arc Clubs Model Constitution.
-::
 
 
 Dissolution
@@ -532,7 +519,6 @@ Dissolution
 ::
    Constitution amendment note:
    Amending this line to better align with the Arc Clubs Model Constitution and other petition clauses.
-::
 
    #. No other business may be conducted at the meeting to dissolve the club;
    #. After the petitioning body has stated its case any opposition must be given the opportunity to reply, with at least ten minutes set aside for this purpose;

@@ -19,12 +19,6 @@ The Society
 
 #. The official name of the club shall be CompClub.
 #. **The club shall be affiliated with Arc.**
-
-::
-
-   Constitution amendment note:
-   Adding this line to better align with the Arc Clubs Model Constitution
-
 #. The aims and objectives of the club are:
 
    #. Introduce highschool students to computer science, programming, related careers and industries.
@@ -32,14 +26,14 @@ The Society
    #. Deliver engaging and high quality learning content to students.
    #. Help current CSE students gain teaching and volunteering experience.
 
-#. :strike:`The assets and income of the club shall be applied solely to further its objects and no portion shall be distributed directly or indirectly to the members of the club except as genuine compensation for services rendered or expenses incurred on behalf of the organisation.`
-#. **The assets and income of the organisation shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation**
+#. :strike:`The assets and income of the club shall be applied solely to further its objects and no portion shall be distributed directly or indirectly to the members of the club except as genuine compensation for services rendered or expenses incurred on behalf of the organisation.` **The assets and income of the organisation shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation**
+#. In all matters not specifically dealt with herein, the procedures set out in the latest edition of Guide for Meetings and Organisations by N.E. Renton shall apply.
 
 ::
-   Constitution amendment note:
-   Arc requires that this clause must be worded as indicated newly without edits for reaffiliation.
 
-#. In all matters not specifically dealt with herein, the procedures set out in the latest edition of Guide for Meetings and Organisations by N.E. Renton shall apply.
+   Constitution amendment note:
+   Adding clause 2 to better align with the Arc Clubs Model Constitution.
+   Arc requires that clause 4 must be worded as indicated newly without edits for reaffiliation.
 
 
 Definitions

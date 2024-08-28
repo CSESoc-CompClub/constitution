@@ -29,6 +29,7 @@ The Society
 ::
 
    Constitution amendment note:
+
    Adding clause 2 to better align with the Arc Clubs Model Constitution.
    Arc requires that clause 4 must be worded as indicated newly without edits for reaffiliation.
 
@@ -101,6 +102,7 @@ Membership
 ::
 
    Constitution amendment note:
+
    Arc requires that the membership termination clause (clause 8) be amended for reaffiliation.
    Clauses 6 and 7 have adjusted appropriately, and clause 7.1 has been amended to align with Arc required EGM impeachment rules.
    Adding clause 10 to better align with the Arc Clubs Model Constitution.
@@ -173,7 +175,9 @@ The Executive Generally
 #. **Executive positions that become vacant less than one (1) month before the yearly affiliation period may be filled by majority vote of the Executive. People appointed this way will be 'Acting' in the position, may not be the President or Treasurer, may not be a bank signatory and cannot act as Arc Membership Portal administrators.**
 
 ::
+
    Constitution amendment note:
+
    Arc strongly recommends the addition of clause 10, with the reasoning that a full EGM within 4 weeks of the AGM is rather unnnecesary, especially in the case of someone going overseas for exchange starting in term 3.
 
 #. Duties of the following Executive positions shall include but not be limited to:
@@ -249,6 +253,7 @@ Secretary
 ::
 
    Constitution amendment note:
+
    Adding clauses 1.10 - 1.12 to better align with the Arc Clubs Model Constitution.
 
 Treasurer
@@ -300,7 +305,9 @@ Community Liaison
    #. Other relevant duties as required.
 
 ::
+
    Constitution amendment note:
+
    Arc requires the addition of a Wellfare Officer for reaffiliation. These responsibilities will largely be reflected within the role of the Community Liaison, and are mostly present as new clauses or wording changes.
 
 
@@ -333,12 +340,14 @@ Election of the Executive
 
 #. Only full members of the Club are entitled to vote for the Executive.
 #. Voting is to be confidential and anonymous with the exception of,
-.. TODO ABOVE
+..
+   TODO ABOVE
 #. Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
 
    #. Each candidate must reach the quota of votes as determined by the Droop quota for that position.
    #. When electing Co-presidents, all first and second preferences shall be counted as first preferences.
-   .. TODO WHAT IS THIS
+   ..
+      TODO WHAT IS THIS
 
 
 Delegation of Executive to the Portfolio
@@ -380,6 +389,7 @@ Handover Period
 #. At the conclusion of the Handover Period, the Executive is dissolved and the Executive-elect assumes their elected positions.
 
 ::
+
    Explantory Note:
 
    CompClub is unique in that we conduct one of our flagship events during the Summer University Holidays. Section 3.1 clause 5
@@ -416,7 +426,9 @@ Returning Officer
    #. **Where there is a clash between this Club's Constitution and Arc Clubs Policy, Arc Clubs Policy takes precedence.**
 
 ::
+
    Constitution amendment note:
+
    Arc requires the addition of a Returning Officer for meetings for reaffiliation. This role was previously already operated on for our General Meetings with elections, but must now be explicitly listed in the Constitution.
 
 
@@ -424,32 +436,32 @@ Annual General Meetings
 -----------------------
 
 #. Each Annual General meeting (AGM) must occur within fifteen (15) months since the calendar date of the last AGM or Initial General Meeting.
-#. Notice in the form of an agenda for the Annual General Meeting shall be no less than :strike:`seven (7)` **fourteen (14)** days, and is to be:
+#. Notice in the form of an agenda for the Annual General Meeting shall be no less than **fourteen (14)** days, and is to be:
 
    #. **Given in writing to Arc;**
    #. Given in writing to all club members, **or upon approval by Arc displayed in a way that will guarantee an acceptable level of exposure among Club members**.
 
-#. Quorum for the Annual General Meeting shall be: :strike:`ten (10) voting members or one half of the club membership, whichever is the lesser. This is based on the membership list at the time that notice of the meeting is given.`
-
+#. Quorum for the Annual General Meeting shall be:
    #. **Ten (10) or one half of the Club membership, whichever is the lesser, for all Clubs with less than 75 members, and for any other Club that has been active for less than 18 months from the time they first affiliated to Arc; or,**
    #. **Fifteen (15) ordinary members for all Clubs with more than 75 members that have been active for more than 18 months from the time they first affiliated to Arc. An ordinary member is defined as a member of the Club that did not serve as Executive in the current year.**
-
-::
-   Constitution amendment note:
-   Arc requires that all General meetings have at least fourteen (14) days notice, and that for established clubs (which we should be partway through next year), cannot have Executives count towards Quorum.
-   The other changes are to better align with the Arc Clubs Model Constitution.
 
 #. At an Annual General Meeting:
 
    #. Reports shall be presented by at least the President and the Treasurer;
    #. Full financial reports shall be presented and adopted;
    #. Constitutional amendments and other motions on notice may be discussed and voted upon; **and**
-   #. :strike:`Elections for a new Executive shall be conducted; and`
-   #. The Chair will hand over the meeting to the Returning Officer who will:
-      #. Hold elections for a new Executive; and/or if this has already happened online,
-      #. Announce the winners and any other relevant information to attendees as required, before handing the meeting to the new, Incoming President, or in their absence, a duly elected Chair.
+   #. **The Chair will hand over the meeting to the Returning Officer who will:**
+      #. **Hold elections for a new Executive; and/or if this has already happened online,**
+      #. **Announce the winners and any other relevant information to attendees as required, before handing the meeting to the new, Incoming President, or in their absence, a duly elected Chair.**
 
 #. Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc and the School, and published on the Club's website within fourteen (14) days of the meeting.
+
+::
+
+   Constitution amendment note:
+
+   Arc requires that all General meetings have at least fourteen (14) days notice, and that for established clubs (which we should be partway through next year), cannot have Executives count towards Quorum.
+   The other changes are to better align with the Arc Clubs Model Constitution.
 
 
 Extraordinary General Meetings
@@ -457,8 +469,8 @@ Extraordinary General Meetings
 
 #. There shall be Extraordinary General Meetings (EGM) as the Executive sees fit or as petitioned under Section 2 clause 7.
 #. The format, procedures, notice and quorum for an Extraordinary General Meeting shall be the same as for an Annual General Meeting, except that Executive elections will not be held unless specifically notified.
-#. To petition for an Extraordinary General Meeting, :strike:`ten (10)` **twenty (20)** voting members or half of the club membership, whichever is the lesser, must petition the Executive in writing.
-#. Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than :strike:`seven (7)` **fourteen (14)** days.
+#. To petition for an Extraordinary General Meeting, **twenty (20)** voting members or half of the club membership, whichever is the lesser, must petition the Executive in writing.
+#. Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than **fourteen (14)** days.
 #. There shall be other general meetings of the club as the Executive sees fit.
 
 
@@ -469,7 +481,7 @@ Meetings
 
    #. All voting at meetings shall be with a simple majority required for a resolution to be passed;
    #. Each voting member is entitled to one vote;
-   #. :strike:`Proxies shall be allowed in meetings` **Directed proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc**;
+   #. **Directed proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc**;
    #. **Only a Returning Officer, or in their absence, meeting Chair, may hold proxy votes;**
    #. **Elections for Executive shall use the "optional preferential" system;**
    #. In the case of equality of voting, the Co-Presidents may a cast an extra vote. If this does not break the tie, the Treasurer may cast an extra vote to break the tie.
@@ -480,7 +492,9 @@ Meetings
    #. **Motions not pertaining to Constitutional changes may be raised at the Meeting from any member in attendance.**
 
 ::
+
    Constitution amendment note:
+
    Arc requires the addition of "optional preferential" voting systems to be used for elections.
    Further changes are to better align with the Arc Clubs Model Constitution
 
@@ -494,8 +508,10 @@ Finance
 #. The financial records of the club :strike:`can be requested for inspection by a motion at an EGM or AGM` **shall be open for inspection by Arc at all times**.
 
 ::
+
    Constitution amendment note:
-   Amending this line to better align with the Arc Clubs Model Constitution.
+
+   Amending clause 5 to better align with the Arc Clubs Model Constitution.
 
 
 Dissolution
@@ -505,11 +521,7 @@ Dissolution
 
    #. An Extraordinary General Meeting is petitioned in writing as set out in Section 4.3 clause 3;
    #. Procedures for notification as set out in Section 4.2 clause 2 are followed, and the reasons for the proposed dissolution are included with the notification to Arc;
-   #. Quorum for the meeting to dissolve the club shall be :strike:`fifteen (15)` **twenty (20)** voting members or three-quarters of the club membership, whichever is the lesser;
-
-::
-   Constitution amendment note:
-   Amending this line to better align with the Arc Clubs Model Constitution and other petition clauses.
+   #. Quorum for the meeting to dissolve the club shall be **twenty (20)** voting members or three-quarters of the club membership, whichever is the lesser;
 
    #. No other business may be conducted at the meeting to dissolve the club;
    #. After the petitioning body has stated its case any opposition must be given the opportunity to reply, with at least ten minutes set aside for this purpose;
@@ -518,3 +530,9 @@ Dissolution
 
 #. Dissolution of the club will also occur if the club has been financially and administratively inactive for a period of eighteen (18) months.
 #. On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to an organisation with similar goals or its successor, provided they are charitable at law. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc will begin procedures to recover any property, monies or records belonging to the club which it perceives would be useful to other Arc-affiliated clubs, provided it is charitable at law. The club will be given twenty one (21) days to forward all relevant items to Arc before any action is instigated. If Arc is not charitable at law, all assets will be distributed to an organisation with similar goals or objectives to the club that also prohibits the distribution of assets to members.
+
+::
+
+   Constitution amendment note:
+
+   Amending clause 1.3 to better align with the Arc Clubs Model Constitution and other petition clauses.

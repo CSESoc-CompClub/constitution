@@ -308,7 +308,8 @@ Community Liaison
 
    Constitution amendment note:
 
-   Arc requires the addition of a Wellfare Officer for reaffiliation. These responsibilities will largely be reflected within the role of the Community Liaison, and are mostly present as new clauses or wording changes.
+   Arc requires the addition of a Wellfare Officer for reaffiliation. These responsibilities will largely be reflected
+   within the role of the Community Liaison, and are mostly present as new clauses or wording changes.
 
 
 Election of the Executive
@@ -324,8 +325,7 @@ Election of the Executive
    #. there are at least two (2) nominees for Co-presidents and one (1) nominee for each other position, and at least five (5) unique nominees for the positions in total.
 
       #. Nominees must be current UNSW students at the time of nomination, and have a valid working with children check (or be in the process of obtaining one);
-   ..
-      TODO do we need to change this?
+   .. TODO do we need to change this?
 
 #. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee.
 #. The Co-Presidents shall maintain the official list of nominees during the nomination period.
@@ -340,14 +340,12 @@ Election of the Executive
 
 #. Only full members of the Club are entitled to vote for the Executive.
 #. Voting is to be confidential and anonymous with the exception of,
-..
-   TODO ABOVE
+.. TODO WHAT IS THIS
 #. Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
 
    #. Each candidate must reach the quota of votes as determined by the Droop quota for that position.
    #. When electing Co-presidents, all first and second preferences shall be counted as first preferences.
-   ..
-      TODO WHAT IS THIS
+   .. TODO WHAT IS THIS
 
 
 Delegation of Executive to the Portfolio
@@ -399,7 +397,8 @@ Handover Period
    Committee-elect familiarise themselves with their respective roles.
 
    The Executive-elect is suggested to carry on their duties outlined in Section 3.1 clause 3 within the context of their tenure.
-   The outgoing Executive is strong advised against enacting decisions that will infringe on the duties and decisions of the Executive-elect within the context of Executive-elect's tenure, and should merely act as an advisory body.
+   The outgoing Executive is strong advised against enacting decisions that will infringe on the duties and decisions of the
+   Executive-elect within the context of Executive-elect's tenure, and should merely act as an advisory body.
 
    ~ the 2023 Executive Team
 
@@ -407,11 +406,11 @@ Handover Period
 Meetings
 ========
 
-#. **At least one (1) Returning Officer must be appointed by the Executive prior to a General Meeting at which an election will take place.**
-#. **The Returning Officers duties are as follows:**
-
 Returning Officer
 -----------------
+
+#. **At least one (1) Returning Officer must be appointed by the Executive prior to a General Meeting at which an election will take place.**
+#. **The Returning Officers duties are as follows:**
 
    #. **Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc Clubs Management.**
    #. **Ensure that all elections are run fairly and in line with the rules set out by this Club's Constitution and according to Arc Clubs Policy and Procedure.**
@@ -429,7 +428,8 @@ Returning Officer
 
    Constitution amendment note:
 
-   Arc requires the addition of a Returning Officer for meetings for reaffiliation. This role was previously already operated on for our General Meetings with elections, but must now be explicitly listed in the Constitution.
+   Arc requires the addition of a Returning Officer for meetings for reaffiliation. This role was previously already operated on
+   for our General Meetings with elections, but must now be explicitly listed in the Constitution.
 
 
 Annual General Meetings
@@ -442,6 +442,7 @@ Annual General Meetings
    #. Given in writing to all club members, **or upon approval by Arc displayed in a way that will guarantee an acceptable level of exposure among Club members**.
 
 #. Quorum for the Annual General Meeting shall be:
+
    #. **Ten (10) or one half of the Club membership, whichever is the lesser, for all Clubs with less than 75 members, and for any other Club that has been active for less than 18 months from the time they first affiliated to Arc; or,**
    #. **Fifteen (15) ordinary members for all Clubs with more than 75 members that have been active for more than 18 months from the time they first affiliated to Arc. An ordinary member is defined as a member of the Club that did not serve as Executive in the current year.**
 
@@ -460,7 +461,8 @@ Annual General Meetings
 
    Constitution amendment note:
 
-   Arc requires that all General meetings have at least fourteen (14) days notice, and that for established clubs (which we should be partway through next year), cannot have Executives count towards Quorum.
+   Arc requires that all General meetings have at least fourteen (14) days notice, and that for established clubs
+   (which we should be partway through next year), cannot have Executives count towards Quorum.
    The other changes are to better align with the Arc Clubs Model Constitution.
 
 

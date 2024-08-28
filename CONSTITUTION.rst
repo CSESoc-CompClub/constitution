@@ -52,7 +52,7 @@ Definitions
    #. The ACNC shall mean the Australian Charities and Not-for-profits Commission; and
    #. CSESoc shall mean the Computer Science and Engineering Society of UNSW.
 
-#. Unless a contrary statement appears in Section 7 of this Constitution, the Club shall be bound by all the clauses in Section 2 to Section 6 of this Constitution.
+#. Unless a contrary statement appears in Section 7 of this Constitution, the Club shall be bound by all the clauses in Section 1 to Section 6 of this Constitution.
 
 
 Membership
@@ -88,7 +88,7 @@ Membership
    #. **The Club has liaised with Arc about the person in question and Arc has determined the issue is of a serious nature.**
    #. **That the Club has, in consultation with Arc, determined that a public EGM to remove the individual would cause undue harm to those that have been victimised or harmed.**
    #. **Notice of a General Meeting must then be presented via the email they provided when signing up to the Club, to the person(s) in question, and the Executive, at least seven (7) days prior to the meeting.**
-   #. **This meeting must be held ** *in-camera* **(privately) and the only people permitted to attend the meeting are:**
+   #. **This meeting must be held** *in-camera* **(privately) and the only people permitted to attend the meeting are:**
       #. **Executive as listed within their Constitution,**
       #. **the person(s) in question,**
       #. **a support person for each of the person(s) in question, as required**
@@ -164,7 +164,7 @@ The Executive Generally
 
    Arc requires that the responsibilities of a Wellfare Officer be present within the Constitution for reaffiliation.
    These responsibilities will largely be reflected within the role of the Community Liaison, and
-   these duties cannot be shared by the President. Further details can be found below in Section ...
+   these duties cannot be shared by the President. Further details can be found below in Section 3.2.4.
 
    Arc strongly recommends the addition of clause 7.6, with the reasoning: "This aims to reduce the harm
    and distress caused by public EGMs and provide a common-sense solution to ensure your team can be at full strength."
@@ -178,7 +178,7 @@ The Executive Generally
    responsibilities of portfolios to be handled be a dedicated person focused on bringing out the best of
    that area of the club. In doing so, the required responsibilities for the Co-Presidents has reduced
    to the point we believe only one president is necessary for the club. Further information of the new roles
-   can be found below in Section ..., as well as smaller changes to reflect the new Executive team that may not have notes attached.
+   can be found below in Section 3.2.5, as well as smaller changes to reflect the new Executive team that may not have notes attached.
 
    ~ the 2024 Executive Team
 
@@ -402,7 +402,7 @@ Delegation of Executive to the Portfolio
    #. a function which is a duty imposed on the Executive by the Act or by any other law.
    #. for the avoidance of doubt, any function that would require a General Meeting.
 
-#. Subject to Section 3.2.1 clauses 2.2 and 3.1, the members of the Executive are to each supervise and oversee the delegated functions of at least one Portfolio.
+#. Subject to Section 3.2.5 clauses 2.1, 3.1 and 4.1, the members of the Executive are to each supervise and oversee the delegated functions of at least one Portfolio.
 #. A function the exercise of which has been delegated to a Portfolio under this clause may, while the delegation remains unrevoked, be exercised from time to time by the Portfolio in accordance with the terms of the delegation.
 #. A delegation under this clause may be made subject to any conditions or limitations as to the exercise of any function, or as to time or circumstances, that may be specified in the instrument of delegation.
 

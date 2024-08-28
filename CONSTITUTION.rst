@@ -340,12 +340,12 @@ Election of the Executive
 
 #. Only full members of the Club are entitled to vote for the Executive.
 #. Voting is to be confidential and anonymous with the exception of,
-.. TODO WHAT IS THIS
+   .. TODO WHAT IS THIS
 #. Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
 
    #. Each candidate must reach the quota of votes as determined by the Droop quota for that position.
    #. When electing Co-presidents, all first and second preferences shall be counted as first preferences.
-   .. TODO WHAT IS THIS
+      .. TODO WHAT IS THIS
 
 
 Delegation of Executive to the Portfolio

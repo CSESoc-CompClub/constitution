@@ -338,7 +338,7 @@ Vice Presidents:
 
    #. **To supervise the operations of internally operating portfolios that facilitate the events conducted within the University and at high schools;**
    #. **To manage the online presence of the Club including responding to social media inboxes;**
-   #. **To coordinate all external communications of the Club;**
+   #. **To coordinate external communications of the Club;**
    #. **Other relevant duties as required.**
 
 ::
@@ -367,10 +367,9 @@ Election of the Executive
 #. Nominations must remain open until at least the later of:
 
    #. one calendar week after nominations open; or
-   #. there are at least two (2) nominees for Co-presidents and one (1) nominee for each other position, and at least five (5) unique nominees for the positions in total.
+   #. there **is** at least one (1) nominee for each position, and at least five (5) unique nominees for the positions in total.
 
       #. Nominees must be current UNSW students at the time of nomination, and have a valid working with children check (or be in the process of obtaining one);
-   .. TODO do we need to change this?
 
 #. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee.
 #. The Co-Presidents shall maintain the official list of nominees during the nomination period.
@@ -384,13 +383,16 @@ Election of the Executive
    #. In order to be appointed to an executive position, winner(s) of the election must accept their role and the motion to appoint them has to pass at the Annual General Meeting meeting, or at an Extraordinary General Meeting.
 
 #. Only full members of the Club are entitled to vote for the Executive.
-#. Voting is to be confidential and anonymous with the exception of,
-   .. TODO WHAT IS THIS
+#. Voting is to be confidential and anonymous with the exception of, **the Returning Officer and any scrutineers (who cannot be the candidate themselves).**
 #. Votes will be counted using the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system.
 
    #. Each candidate must reach the quota of votes as determined by the Droop quota for that position.
-   #. When electing Co-presidents, all first and second preferences shall be counted as first preferences.
-      .. TODO WHAT IS THIS
+
+::
+
+   Constitution amendment note:
+
+   Clarifying wording around incomplete clause and with one President now.
 
 
 Delegation of Executive to the Portfolio
@@ -531,8 +533,7 @@ Meetings
    #. **Directed proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc**;
    #. **Only a Returning Officer, or in their absence, meeting Chair, may hold proxy votes;**
    #. **Elections for Executive shall use the "optional preferential" system;**
-   #. In the case of equality of voting, the Co-Presidents may a cast an extra vote. If this does not break the tie, the Treasurer may cast an extra vote to break the tie.
-   .. TODO Do we need to change this to just President may cast an extra vote?
+   #. In the case of equality of voting, the **President** may a cast an extra vote **to break the tie**.
 
    #. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
    #. **Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.**

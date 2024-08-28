@@ -156,6 +156,7 @@ The Executive Generally
 
 #. Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.3, **unless covered by clause 10**.
 #. **Executive positions that become vacant less than one (1) month before the yearly affiliation period may be filled by majority vote of the Executive. People appointed this way will be 'Acting' in the position, may not be the President or Treasurer, may not be a bank signatory and cannot act as Arc Membership Portal administrators.**
+#. Duties of the following Executive positions shall include but not be limited to:
 
 ::
 
@@ -181,8 +182,6 @@ The Executive Generally
 
    ~ the 2024 Executive Team
 
-#. Duties of the following Executive positions shall include but not be limited to:
-
 
 Duties of the Executive
 -----------------------
@@ -190,7 +189,7 @@ Duties of the Executive
 The Co-Presidents
 """""""""""""""""
 
-#. The common duties of the Co-President (Externals) and Co-President (Internals) shall be:
+#. The duties of the President shall be:
 
    #. To chair all club, Committee, General and Annual General Meetings (held during their term) of the club;
    #. To oversee and coordinate the activities and administration of the club;
@@ -210,20 +209,14 @@ The Co-Presidents
    #. To pass on their knowledge to their successor; and
    #. Other duties as in accordance with the Constitution of the club.
 
-#. The duties of the Co-President (Externals) shall be
+::
 
-   #. To supervise the external-facing aspects of the Club, including events conducted at high schools and related Portfolios;
-   #. To sustain and build external relationships with highschools and sponsors for CompClub;
-   #. To facilitate culture and team relations within the society;
-   #. Other relevant duties as required;
+   Constitution amendment note:
 
-#. The duties of the Co-President (Internals) shall be
+   With the introduction of the new Vice President Roles, we now feel like there is not enough responsibility
+   to justify having two co-presidents, hence the reduction down to one president.
 
-   #. To supervise events conducted within the University and related Portfolios;
-   #. To communicate with the Executive before and after any relevant Meetings with the School, to pass on information;
-   #. To liaise with the School and the club's Executive
-   #. To facilitate culture and team relations within the society;
-   #. Other relevant duties as required;
+   ~ the 2024 Executive Team
 
 
 Secretary
@@ -311,6 +304,57 @@ Community Liaison
 
    Arc requires the addition of a Wellfare Officer for reaffiliation. These responsibilities will largely be reflected
    within the role of the Community Liaison, and are mostly present as new clauses or wording changes.
+
+
+Vice Presidents:
+""""""""""""""""
+
+#. **The common duties of the Vice President (Internals), Vice President (Outreach) and Vice President (Operations) shall be:**
+
+   #. **In the absence of the president, to chair all Club, Committee, General and Annual General Meetings (held during their term) of the Club;**
+   #. **To assist the President in coordinating the activities and administration of the Club wherever practical;**
+   #. **To liaise with fellow office bearers;**
+   #. **To coordinate the events and activities of the Club;**
+   #. **To evaluate the performance of past events;**
+   #. **To ensure that events are financially responsible and within budget;**
+   #. **To ensure that events are accessible and inclusive for Club members;**
+   #. **To facilitate culture and team relations within the society; and**
+   #. **To maintain a consistent brand image for the Club in line with the Clubs values and identity.**
+
+#. **The duties of the Vice President (Internals) shall be:**
+
+   #. **To supervise events conducted within the University and related Portfolios;**
+   #. **To communicate with the Executive before and after any relevant Meetings with the School, to pass on information;**
+   #. **To liaise with the School and the club's Executive;**
+   #. **Other relevant duties as required.**
+
+#. **The duties of the Vice President (Outreach) shall be:**
+
+   #. **To supervise the external-facing aspects of the Club, including events conducted at high schools and related Portfolios;**
+   #. **To sustain and build external relationships with highschools and sponsors for CompClub;**
+   #. **Other relevant duties as required.**
+
+#. **The duties of the Vice President (Operations) shall be:**
+
+   #. **To supervise the operations of internally operating portfolios that facilitate the events conducted within the University and at high schools;**
+   #. **To manage the online presence of the Club including responding to social media inboxes;**
+   #. **To coordinate all external communications of the Club;**
+   #. **Other relevant duties as required.**
+
+::
+
+   Constitution amendment note:
+
+   The addition of the new Vice President roles will take over the specific portfolio supervisory work
+   That was part of the co-presidents responsibilities. In summary, The VP Internals would do the
+   Internals work of the Co-President (Internals), the VP Outreach would do the Externals and Programmes
+   work of the Co-President (Externals), and the VP Operations would do supervisory work for Creative,
+   Media, Dev and HR that wa shared amongst the Secretary, Treasurer and Community Liaison that wasn't
+   previously listed in their specific roles. We hope this larger team will have a better spread of workload
+   to facilitate the ever-growing society, and that this larger team can also cover for burnout more
+   effectively.
+
+   ~ the 2024 Executive Team
 
 
 Election of the Executive

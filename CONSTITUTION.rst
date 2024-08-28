@@ -71,10 +71,10 @@ Membership
 
 #. The duration of a person's membership shall be until the Club's next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the latter.
 #. The Club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
-#. Notwithstanding clause :strike:`8` **9**, a member of the Club Executive may have their position declared vacant according to the procedures set out in Section 3.1 clause 7.
+#. Notwithstanding clause **9**, a member of the Club Executive may have their position declared vacant according to the procedures set out in Section 3.1 clause 7.
 #. Notwithstanding clause 8 **and 9**, **an Executive,** a member or associate member of the Club may have their membership terminated after the following procedure is followed:
 
-   #. A motion is carried by the Executive, or the Executive is petitioned by :strike:`fifteen (15)` **twenty (20)** members to instigate impeachment proceedings;
+   #. A motion is carried by the Executive, or the Executive is petitioned by **twenty (20)** members to instigate impeachment proceedings;
    #. The members of the Club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.3;
    #. The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting.
    #. The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting.
@@ -95,16 +95,15 @@ Membership
    #. **The person(s) in question must be afforded procedural fairness, including five (5) minutes to speak against the motion. (refer to Arc Clubs Policy Section E, 33.5 - 33.11)**
    #. **The motion is carried by the General Meeting.**
 
-::
-   Constitution amendment note:
-   Arc requires that the membership termination clause be amended with the following for reaffiliation.
-
 #. Any member of the Club or Club Executive who believes they have been wrongly expelled may appeal to Arc, who will arrive at the final resolution of the matter.
 #. **Appeals must be submitted in writing within seven (7) days of receiving the penalty and must include a justification for seeking an appeal.**
 
 ::
+
    Constitution amendment note:
-   Adding this line to better align with the Arc Clubs Model Constitution
+   Arc requires that the membership termination clause (clause 8) be amended for reaffiliation.
+   Clauses 6 and 7 have adjusted appropriately, and clause 7.1 has been amended to align with Arc required EGM impeachment rules.
+   Adding clause 10 to better align with the Arc Clubs Model Constitution.
 
 
 Executive
@@ -125,6 +124,7 @@ The Executive Generally
    #. **One (1) Vice President (Operations);**
 
 ::
+
    Constitution amendment note:
    With a growing committee size and greater ambitions, the Executives believe it is time for the Executive team to grow in accordance. We feel the inclusion of vice presidents will greater allow for responsibilities of portfolios to be handled be a dedicated person focused on bringing out the best of that area of the club. In doing so, the required responsibilities for the Co-Presidents has reduced to the point we believe only one president is necessary for the club. Further information of the new roles can be found below in Section ..., as well as smaller changes to reflect the new Executive team that may not have notes attached.
 
@@ -237,11 +237,6 @@ Secretary
    #. **To have a thorough knowledge of the Club's constitution;**
    #. **To ensure that changes made to the constitution at an EGM or AGM are in line with Arc requirements;**
    #. **To ensure that Arc is informed of any changes to the Executive; and**
-
-::
-   Constitution amendment note:
-   Adding these lines to better align with the Arc Clubs Model Constitution.
-
    #. To assume the role of Arc Delegate and its duties:
 
       #. To be aware of the Arc funding system, its requirements and its possibilities for the club;
@@ -251,6 +246,10 @@ Secretary
       #. To collect mail on behalf of the Club from the Arc Clubs Space at least every two weeks; and
       #. To attend Arc Clubs Briefings or nominate a fellow club member to attend on their behalf, or send apologies in advance (taking the form of an email detailing their name, club, and the date of the meeting they cannot attend).
 
+::
+
+   Constitution amendment note:
+   Adding clauses 1.10 - 1.12 to better align with the Arc Clubs Model Constitution.
 
 Treasurer
 """""""""
@@ -280,7 +279,7 @@ Community Liaison
    #. To foster an inclusive culture within the Club and its events and activities;
    #. **To lead efforts ensuring that your internal Club culture is positive and to prioritise and foster wellbeing and balance within the Club;**
    #. **Ensure that Club events will not result in poor wellbeing outcomes and will not lead to grievances from Club members and/or Executives;**
-   #. :strike:`To receive complaints and grievances relating to the Club;` **To be an accessible contact for members, UNSW students and UNSW staff in receiving complaints and grievances relating to the Club and on any matters regarding equity of events and activities as well as conduct and diversity within the Club;**
+   #. **To be an accessible contact for members, UNSW students and UNSW staff in receiving complaints and grievances relating to the Club and on any matters regarding equity of events and activities as well as conduct and diversity within the Club;**
    #. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Club Executive on the resolution of grievances;
    #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Club Executives if they cannot act impartially; and
    #. To notify those involved of the outcome of the grievance.
@@ -296,7 +295,7 @@ Community Liaison
    #. Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive;
    #. Providing guidance to **members and** representatives of the Club (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
    #. Ensure that all Club communications can be understood clearly by all students by avoiding the use of slang and idioms, where practicable;
-   #. :strike:`Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive` **Monitor engagement, membership and any significant issues from students relating to non-majority demographics within the Club and provide reports to Club Executive as required;**
+   #. **Monitor engagement, membership and any significant issues from students relating to non-majority demographics within the Club and provide reports to Club Executive as required;**
    #. **Undertake training as required to build understanding of how to look out for your peers and how to improve the internal culture of your Club; and,**
    #. Other relevant duties as required.
 
@@ -316,9 +315,10 @@ Election of the Executive
 
    #. one calendar week after nominations open; or
    #. there are at least two (2) nominees for Co-presidents and one (1) nominee for each other position, and at least five (5) unique nominees for the positions in total.
-   .. TODO do we need to change this?
 
       #. Nominees must be current UNSW students at the time of nomination, and have a valid working with children check (or be in the process of obtaining one);
+   ..
+      TODO do we need to change this?
 
 #. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee.
 #. The Co-Presidents shall maintain the official list of nominees during the nomination period.

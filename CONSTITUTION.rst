@@ -186,8 +186,8 @@ The Executive Generally
 Duties of the Executive
 -----------------------
 
-The Co-Presidents
-"""""""""""""""""
+The President
+"""""""""""""
 
 #. The duties of the President shall be:
 

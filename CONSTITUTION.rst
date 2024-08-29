@@ -372,7 +372,7 @@ Election of the Executive
       #. Nominees must be current UNSW students at the time of nomination, and have a valid working with children check (or be in the process of obtaining one);
 
 #. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee.
-#. The Co-Presidents shall maintain the official list of nominees during the nomination period.
+#. The **President** shall maintain the official list of nominees during the nomination period.
 
    #. The Executive may choose that the list be made publicly available during the nomination period. If they choose to do so, it must be on the Society website.
    #. The election will run for at least three academic days.

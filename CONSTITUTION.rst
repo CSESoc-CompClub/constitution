@@ -23,7 +23,7 @@ The Society
    #. Deliver engaging and high quality learning content to students.
    #. Help current CSE students gain teaching and volunteering experience.
 
-#. **The assets and income of the organisation shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation**
+#. **The assets and income of the organisation shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation.**
 #. In all matters not specifically dealt with herein, the procedures set out in the latest edition of Guide for Meetings and Organisations by N.E. Renton shall apply.
 
 ::
@@ -89,10 +89,12 @@ Membership
    #. **That the Club has, in consultation with Arc, determined that a public EGM to remove the individual would cause undue harm to those that have been victimised or harmed.**
    #. **Notice of a General Meeting must then be presented via the email they provided when signing up to the Club, to the person(s) in question, and the Executive, at least seven (7) days prior to the meeting.**
    #. **This meeting must be held** *in-camera* **(privately) and the only people permitted to attend the meeting are:**
+
       #. **Executive as listed within their Constitution,**
       #. **the person(s) in question,**
       #. **a support person for each of the person(s) in question, as required**
       #. **Any member of Arc Clubs Management, as required**
+
    #. **The person(s) in question must be afforded procedural fairness, including five (5) minutes to speak against the motion. (refer to Arc Clubs Policy Section E, 33.5 - 33.11)**
    #. **The motion is carried by the General Meeting.**
 

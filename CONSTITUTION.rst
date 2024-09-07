@@ -501,6 +501,7 @@ Annual General Meetings
    #. Full financial reports shall be presented and adopted;
    #. Constitutional amendments and other motions on notice may be discussed and voted upon; **and**
    #. **The Chair will hand over the meeting to the Returning Officer who will:**
+
       #. **Hold elections for a new Executive; and/or if this has already happened online,**
       #. **Announce the winners and any other relevant information to attendees as required, before handing the meeting to the new, Incoming President, or in their absence, a duly elected Chair.**
 

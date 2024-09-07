@@ -187,10 +187,10 @@ The Executive Generally
 Duties of the Executive
 -----------------------
 
-The President
-"""""""""""""
+The **President**
+"""""""""""""""""
 
-#. The duties of the President shall be:
+#. The duties of the **President** shall be:
 
    #. To chair all club, Committee, General and Annual General Meetings (held during their term) of the club;
    #. To oversee and coordinate the activities and administration of the club;

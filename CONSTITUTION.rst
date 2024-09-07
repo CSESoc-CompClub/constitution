@@ -73,7 +73,7 @@ Membership
 #. The duration of a person's membership shall be until the Club's next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the latter.
 #. The Club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
 #. Notwithstanding clause **9**, a member of the Club Executive may have their position declared vacant according to the procedures set out in Section 3.1 clause 7.
-#. Notwithstanding clause 8 **and 9**, **an Executive,** a member or associate member of the Club may have their membership terminated after the following procedure is followed:
+#. Notwithstanding clauses 8 **and 9**, **an Executive,** a member or associate member of the Club may have their membership terminated after the following procedure is followed:
 
    #. A motion is carried by the Executive, or the Executive is petitioned by **twenty (20)** members to instigate impeachment proceedings;
    #. The members of the Club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.3;

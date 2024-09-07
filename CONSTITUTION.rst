@@ -145,7 +145,6 @@ The Executive Generally
 
    #. Die;
    #. Cease to be a member of the club;
-   #. **Cease to be a UNSW student;**
    #. Have their position declared vacant at an Extraordinary General Meeting;
    #. Have their working with children check suspended, revoked or otherwise expired;
    #. **Are absent from any three (3) consecutive meetings of the Club without apology or leave;**
@@ -168,9 +167,9 @@ The Executive Generally
    These responsibilities will largely be reflected within the role of the Community Liaison, and
    these duties cannot be shared by the President. Further details can be found below in Section 3.2.4.
 
-   Arc strongly recommends the addition of clause 7.6, with the reasoning: "This aims to reduce the harm
+   Arc strongly recommends the addition of clause 7.5, with the reasoning: "This aims to reduce the harm
    and distress caused by public EGMs and provide a common-sense solution to ensure your team can be at full strength."
-   Clauses 7.3 and 7.6 are to better align with the Arc Clubs Model Constitution.
+   Clause 7.6 are to better align with the Arc Clubs Model Constitution.
 
    Arc strongly recommends the addition of clause 10, with the reasoning that a full EGM within 4 weeks of
    the AGM is rather unnnecesary, especially in the case of someone going overseas for exchange starting in term 3.

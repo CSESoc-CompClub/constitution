@@ -145,6 +145,7 @@ The Executive Generally
 
    #. Die;
    #. Cease to be a member of the club;
+   #. **Cease to be a UNSW student;**
    #. Have their position declared vacant at an Extraordinary General Meeting;
    #. Have their working with children check suspended, revoked or otherwise expired;
    #. **Are absent from any three (3) consecutive meetings of the Club without apology or leave;**
@@ -167,9 +168,9 @@ The Executive Generally
    These responsibilities will largely be reflected within the role of the Community Liaison, and
    these duties cannot be shared by the President. Further details can be found below in Section 3.2.4.
 
-   Arc strongly recommends the addition of clause 7.5, with the reasoning: "This aims to reduce the harm
+   Arc strongly recommends the addition of clause 7.6, with the reasoning: "This aims to reduce the harm
    and distress caused by public EGMs and provide a common-sense solution to ensure your team can be at full strength."
-   Clause 7.6 are to better align with the Arc Clubs Model Constitution.
+   Clauses 7.3 and 7.7 are to better align with the Arc Clubs Model Constitution.
 
    Arc strongly recommends the addition of clause 10, with the reasoning that a full EGM within 4 weeks of
    the AGM is rather unnnecesary, especially in the case of someone going overseas for exchange starting in term 3.
@@ -287,7 +288,7 @@ Community Liaison
    #. **To not act as counsellor during any grievances, but to ensure that anyone experiencing distress is provided with adequate resources on who to speak to or where to go to seek professional advice or help.**
    #. Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and indigenous students). This may include:
 
-      #. Fostering and expanding an online community
+      #. Fostering and expanding an online community.
 
    #. Engaging & representing student members of non-majority demographics of the Club;
    #. Ensuring the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
@@ -332,7 +333,7 @@ Vice Presidents:
 #. **The duties of the Vice President (Outreach) shall be:**
 
    #. **To supervise the external-facing aspects of the Club, including events conducted at high schools and related Portfolios;**
-   #. **To sustain and build external relationships with highschools and sponsors for CompClub;**
+   #. **To sustain and build external relationships with high schools and sponsors for CompClub;**
    #. **Other relevant duties as required.**
 
 #. **The duties of the Vice President (Operations) shall be:**

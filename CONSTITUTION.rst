@@ -107,7 +107,7 @@ The Executive Generally
    #. One (1) Secretary;
    #. One (1) Treasurer;
    #. One (1) Community Liaison;
-   #. One (1) Vice President (Internals);
+   #. One (1) Vice President (Technical);
    #. One (1) Vice President (Outreach);
    #. One (1) Vice President (Operations);
 
@@ -251,7 +251,7 @@ Community Liaison
 Vice Presidents:
 """"""""""""""""
 
-#. The common duties of the Vice President (Internals), Vice President (Outreach) and Vice President (Operations) shall be:
+#. The common duties of the Vice President (Technical), Vice President (Outreach) and Vice President (Operations) shall be:
 
    #. In the absence of the president, to chair all Club, Committee, General and Annual General Meetings (held during their term) of the Club;
    #. To assist the President in coordinating the activities and administration of the Club wherever practical;
@@ -263,7 +263,7 @@ Vice Presidents:
    #. To facilitate culture and team relations within the society; and
    #. To maintain a consistent brand image for the Club in line with the Clubs values and identity.
 
-#. The duties of the Vice President (Internals) shall be:
+#. The duties of the Vice President (Technical) shall be:
 
    #. To supervise events conducted within the University and related Portfolios;
    #. To communicate with the Executive before and after any relevant Meetings with the School, to pass on information;

@@ -44,7 +44,7 @@ Definitions
    #. The School shall mean the School of Computer Science and Engineering, at the University;
    #. The ACNC shall mean the Australian Charities and Not-for-profits Commission; and
    #. CSESoc shall mean the Computer Science and Engineering Society of UNSW.
-	 #. Treasurer shall mean the Executive position of "Secretary" of the Club
+   #. Treasurer shall mean the Executive position of "Secretary" of the Club
 
 #. Unless a contrary statement appears in Section 7 of this Constitution, the Club shall be bound by all the clauses in Section 1 to Section 6 of this Constitution.
 
@@ -189,30 +189,28 @@ Secretary
    #. To ensure that changes made to the constitution at an EGM or AGM are in line with Arc requirements;
    #. To ensure that Arc is informed of any changes to the Executive; and
    #. To assume the role of Arc Delegate and its duties:
-
-      #. To be aware of the Arc funding system, its requirements and its possibilities for the club;
-      #. To communicate with the Executive before and after each Arc Clubs Briefing to pass on information (about grants etc);
-      #. To liaise with Arc and the club's Executive;
-      #. To have a good working knowledge of Arc forms;
-      #. To collect mail on behalf of the Club from the Arc Clubs Space at least every two weeks; and
-      #. To attend Arc Clubs Briefings or nominate a fellow club member to attend on their behalf, or send apologies in advance (taking the form of an email detailing their name, club, and the date of the meeting they cannot attend).
-
+		#. To be aware of the Arc funding system, its requirements and its possibilities for the club;
+		#. To communicate with the Executive before and after each Arc Clubs Briefing to pass on information (about grants etc);
+		#. To liaise with Arc and the club's Executive;
+		#. To have a good working knowledge of Arc forms;
+		#. To collect mail on behalf of the Club from the Arc Clubs Space at least every two weeks; and
+		#. To attend Arc Clubs Briefings or nominate a fellow club member to attend on their behalf, or send apologies in advance (taking the form of an email detailing their name, club, and the date of the meeting they cannot attend).
    #. To assume the role of Treasurer and its duties: 
-	#. To keep and maintain all club financial records;
-	#. To hold cheque books, petty cash tins etc;
-	#. To coordinate with the School on budgets and funding where appropriate;
-	#. To keep the club informed of its financial position at meetings, through regular e-mail reports, or regular newsletters;
-	#. To carry out financial transactions as directed by the club management;
-	#. To not lend money, under any circumstances to themselves, club members or other clubs;
-	#. To always ensure that the records are up to date and in good order so that if they are otherwise unable to continue in that capacity someone else can easily take over;
-	#. To not put the club in debt that cannot be repaid, but should endeavour to match costs and income as closely as possible;
-	#. To always insist on a receipt or docket to validate any expenditure by the club;
-	#. To pay all accounts by cheque;
-	#. To always provide a receipt to a person who gives money to the club for any reason and bank all money received IMMEDIATELY;
-	#. To ensure the Club has at least two and not more than three signatories who are Executive members to the cheque account;
-	#. To ensure that club funds are not misused at any time; and
-	#. To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained;
-	#. To ensure that under no circumstances are any expenses to be met without documentation.
+		#. To keep and maintain all club financial records;
+		#. To hold cheque books, petty cash tins etc;
+		#. To coordinate with the School on budgets and funding where appropriate;
+		#. To keep the club informed of its financial position at meetings, through regular e-mail reports, or regular newsletters;
+		#. To carry out financial transactions as directed by the club management;
+		#. To not lend money, under any circumstances to themselves, club members or other clubs;
+		#. To always ensure that the records are up to date and in good order so that if they are otherwise unable to continue in that capacity someone else can easily take over;
+		#. To not put the club in debt that cannot be repaid, but should endeavour to match costs and income as closely as possible;
+		#. To always insist on a receipt or docket to validate any expenditure by the club;
+		#. To pay all accounts by cheque;
+		#. To always provide a receipt to a person who gives money to the club for any reason and bank all money received IMMEDIATELY;
+		#. To ensure the Club has at least two and not more than three signatories who are Executive members to the cheque account;
+		#. To ensure that club funds are not misused at any time; and
+		#. To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained;
+		#. To ensure that under no circumstances are any expenses to be met without documentation.
 
 
 Community Liaison
